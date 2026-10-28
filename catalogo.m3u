@@ -1,297 +1,297 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="entry-10e7d500f9b17fbe9808a36a" group-title="Mexico",Alcarria TV
+#EXTINF:-1 tvg-id="entry-10e7d500f9b17fbe9808a36a" tvg-logo="https://i.imgur.com/zNSuxVZ.jpg" group-title="Mexico",Alcarria TV
 http://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
-#EXTINF:-1 tvg-id="entry-2ec0c08f3ed2e3cc688ca68e" group-title="Mexico",Hipodromo de las Americas
+#EXTINF:-1 tvg-id="entry-2ec0c08f3ed2e3cc688ca68e" tvg-logo="https://i.imgur.com/wc8MlGw.png" group-title="Mexico",Hipodromo de las Americas
 http://wms30.tecnoxia.com/soelvi/abr_soelvi/playlist.m3u8
-#EXTINF:-1 tvg-id="entry-095c936156c59e8c1a6b9b2c" group-title="Mexico",MVM NoticiasⓈ
+#EXTINF:-1 tvg-id="entry-095c936156c59e8c1a6b9b2c" tvg-logo="https://i.imgur.com/dhLXN9n.png" group-title="Mexico",MVM NoticiasⓈ
 http://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/index_1_av-p.m3u8
-#EXTINF:-1 tvg-id="entry-2e0ef7234b233dd64b35f0fb" group-title="Mexico",RCG 3 Saltillo
+#EXTINF:-1 tvg-id="entry-2e0ef7234b233dd64b35f0fb" tvg-logo="https://i.imgur.com/NefH5qZ.png" group-title="Mexico",RCG 3 Saltillo
 http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
-#EXTINF:-1 tvg-id="entry-d489191285e7f6b2ef8f6eba" group-title="Mexico",TeleFormula
+#EXTINF:-1 tvg-id="entry-d489191285e7f6b2ef8f6eba" tvg-logo="https://i.imgur.com/jR6taXt.png" group-title="Mexico",TeleFormula
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
-#EXTINF:-1 tvg-id="entry-80fc6a628b65a8bbc059c8ba" group-title="Mexico",NRT 4 Monclova
+#EXTINF:-1 tvg-id="entry-80fc6a628b65a8bbc059c8ba" tvg-logo="https://i.imgur.com/IudKE0n.png" group-title="Mexico",NRT 4 Monclova
 https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
-#EXTINF:-1 tvg-id="entry-ddc589b20b69d792acd42a83" group-title="Mexico",Las Estrellas
+#EXTINF:-1 tvg-id="entry-ddc589b20b69d792acd42a83" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Las_Estrellas.svg" group-title="Mexico",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 tvg-id="entry-b36f0678c5510405cc2faf9b" group-title="Mexico",ADN Noticias
+#EXTINF:-1 tvg-id="entry-b36f0678c5510405cc2faf9b" tvg-logo="https://pbs.twimg.com/profile_images/1968512728059850752/KUWD445m_200x200.jpg" group-title="Mexico",ADN Noticias
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-id="entry-03ce2909109265a615df2afb" group-title="Mexico",Canal 6 Multimedios
+#EXTINF:-1 tvg-id="entry-03ce2909109265a615df2afb" tvg-logo="https://graph.facebook.com/multimediostv/picture?width=200&height=200" group-title="Mexico",Canal 6 Multimedios
 https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
-#EXTINF:-1 tvg-id="entry-da556289d046d2c69e61d9cc" group-title="Mexico",Canal Once
+#EXTINF:-1 tvg-id="entry-da556289d046d2c69e61d9cc" tvg-logo="https://graph.facebook.com/CANALONCETV/picture?width=200&height=200" group-title="Mexico",Canal Once
 https://vivo.canaloncelive.tv/secureoncedos/oncedigital/playlist.m3u8
-#EXTINF:-1 tvg-id="entry-a955bce5ba2f11a58294e422" group-title="Mexico",Quiero TV
+#EXTINF:-1 tvg-id="entry-a955bce5ba2f11a58294e422" tvg-logo="https://graph.facebook.com/quierotvGDL/picture?width=200&height=200" group-title="Mexico",Quiero TV
 https://stream.ontvmx.com/ontv/ghxTYEQmKkB2UJyVuW/playlist.m3u8
-#EXTINF:-1 tvg-id="entry-e5d2a3f27e7577c96e88ee10" group-title="Mexico",México Travel TV
+#EXTINF:-1 tvg-id="entry-e5d2a3f27e7577c96e88ee10" tvg-logo="https://graph.facebook.com/MexicoTravelChannelTV/picture?width=200&height=200" group-title="Mexico",México Travel TV
 https://5ca9af4645e15.streamlock.net/mexicotravel/videomexicotravel/playlist.m3u8
-#EXTINF:-1 tvg-id="entry-deccf2a889462236562c43ff" group-title="Mexico",Estrella TV
+#EXTINF:-1 tvg-id="entry-deccf2a889462236562c43ff" tvg-logo="https://graph.facebook.com/EstrellaTV/picture?width=200&height=200" group-title="Mexico",Estrella TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
-#EXTINF:-1 tvg-id="entry-cabc61fd85da9ee6df03ca8e" group-title="Mexico",TELE 10 Nayarit
+#EXTINF:-1 tvg-id="entry-cabc61fd85da9ee6df03ca8e" tvg-logo="https://graph.facebook.com/Tele10Nayarit/picture?width=200&height=200" group-title="Mexico",TELE 10 Nayarit
 https://live.iplanay.gob.mx/hls/nayarittv.m3u8
-#EXTINF:-1 tvg-id="entry-cbb7a2c35c31625a97fa53b3" group-title="Argentina",Aunar
+#EXTINF:-1 tvg-id="entry-cbb7a2c35c31625a97fa53b3" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/aunar.png" group-title="Argentina",Aunar
 https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
-#EXTINF:-1 tvg-id="entry-f0f69d9a1c40248e2f55a005" group-title="Argentina",Cine.AR
+#EXTINF:-1 tvg-id="entry-f0f69d9a1c40248e2f55a005" tvg-logo="https://i.imgur.com/RPLyrIC.png" group-title="Argentina",Cine.AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
-#EXTINF:-1 tvg-id="entry-a9188a08299205ebf0705ba2" group-title="Argentina",Tec TV
+#EXTINF:-1 tvg-id="entry-a9188a08299205ebf0705ba2" tvg-logo="https://i.imgur.com/EGCq1wc.png" group-title="Argentina",Tec TV
 https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
-#EXTINF:-1 tvg-id="entry-c2b8ffa29427c891fdd36ec4" group-title="Argentina",DeporTV
+#EXTINF:-1 tvg-id="entry-c2b8ffa29427c891fdd36ec4" tvg-logo="https://i.imgur.com/iyYLNRt.png" group-title="Argentina",DeporTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
-#EXTINF:-1 tvg-id="entry-8eabfd2d5aac8b6fadb24b87" group-title="Argentina",Canal 26
+#EXTINF:-1 tvg-id="entry-8eabfd2d5aac8b6fadb24b87" tvg-logo="https://i.imgur.com/5pAaVih.png" group-title="Argentina",Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
-#EXTINF:-1 tvg-id="entry-7535b8e5cae32b1cea9282d0" group-title="Argentina",+Perfil
+#EXTINF:-1 tvg-id="entry-7535b8e5cae32b1cea9282d0" tvg-logo="https://i.imgur.com/3wZdPwN.png" group-title="Argentina",+Perfil
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8
-#EXTINF:-1 tvg-id="entry-5d9d43ed05e470e630499666" group-title="Argentina",Telemax
+#EXTINF:-1 tvg-id="entry-5d9d43ed05e470e630499666" tvg-logo="https://i.imgur.com/gfX0hdB.png" group-title="Argentina",Telemax
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
-#EXTINF:-1 tvg-id="entry-ae7a504634e07e7623600479" group-title="Argentina",Net TV
+#EXTINF:-1 tvg-id="entry-ae7a504634e07e7623600479" tvg-logo="https://i.imgur.com/EWmshtx.png" group-title="Argentina",Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="entry-aeabae7c18562daf7375384d" group-title="Argentina",TV Universidad
+#EXTINF:-1 tvg-id="entry-aeabae7c18562daf7375384d" tvg-logo="https://i.imgur.com/tvLHiAT.png" group-title="Argentina",TV Universidad
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
-#EXTINF:-1 tvg-id="entry-cfa28ca4fdae8f819b4989ea" group-title="Argentina",El Trece
+#EXTINF:-1 tvg-id="entry-cfa28ca4fdae8f819b4989ea" tvg-logo="https://i.imgur.com/ZK7AQFg.png" group-title="Argentina",El Trece
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:-1 tvg-id="entry-09271de2142ff7eac9fb6f83" group-title="Argentina",El Nueve
+#EXTINF:-1 tvg-id="entry-09271de2142ff7eac9fb6f83" tvg-logo="https://i.imgur.com/EtcVSm4.png" group-title="Argentina",El Nueve
 http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-canal9.playlist.m3u8
-#EXTINF:-1 tvg-id="entry-aac8b594913f3bf8cf2a3878" group-title="Argentina",Telefe
+#EXTINF:-1 tvg-id="entry-aac8b594913f3bf8cf2a3878" tvg-logo="https://i.imgur.com/wrZfMXn.png" group-title="Argentina",Telefe
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
-#EXTINF:-1 tvg-id="entry-671ffb91d3939456f4619b48" group-title="Argentina",América
+#EXTINF:-1 tvg-id="entry-671ffb91d3939456f4619b48" tvg-logo="https://i.imgur.com/Jt7dOQm.png" group-title="Argentina",América
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
-#EXTINF:-1 tvg-id="entry-d0551ae35ad464d03806f7b1" group-title="Chile",UCV Televisión
+#EXTINF:-1 tvg-id="entry-d0551ae35ad464d03806f7b1" tvg-logo="https://i.imgur.com/2VL4Pts.png" group-title="Chile",UCV Televisión
 https://unlimited1-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="entry-607f1cff40e56c346810cd44" group-title="Chile",TV+
+#EXTINF:-1 tvg-id="entry-607f1cff40e56c346810cd44" tvg-logo="https://i.imgur.com/NtuZIEJ.png" group-title="Chile",TV+
 https://jireh-8-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="entry-b86ddea987d3d1b77dea158a" group-title="Chile",UChile TV
+#EXTINF:-1 tvg-id="entry-b86ddea987d3d1b77dea158a" tvg-logo="https://i.imgur.com/mF2W8Uh.png" group-title="Chile",UChile TV
 https://unlimited1-us.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="entry-f51f1a7735a8a13996f019ac" group-title="Chile",El Pingüino TV
+#EXTINF:-1 tvg-id="entry-f51f1a7735a8a13996f019ac" tvg-logo="https://i.imgur.com/ohXs2NV.png" group-title="Chile",El Pingüino TV
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/pinguinotv/pinguinotv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="entry-8f725394ff58406a80e8aef8" group-title="Chile",SoloTV
+#EXTINF:-1 tvg-id="entry-8f725394ff58406a80e8aef8" tvg-logo="https://i.imgur.com/Ad2ueID.png" group-title="Chile",SoloTV
 https://stream.making.cl/memfs/ee909361-73e9-4e74-8391-5f1b0b8006c2.m3u8
-#EXTINF:-1 tvg-id="entry-49d708158187142bcf69d0da" group-title="Chile",Bio Bio TV
+#EXTINF:-1 tvg-id="entry-49d708158187142bcf69d0da" tvg-logo="https://i.imgur.com/wrRufts.png" group-title="Chile",Bio Bio TV
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="entry-8f1e16ff695624a45cc7f518" group-title="Chile",TVN Ⓖ
+#EXTINF:-1 tvg-id="entry-8f1e16ff695624a45cc7f518" tvg-logo="https://i.imgur.com/WoN1dai.png" group-title="Chile",TVN Ⓖ
 https://iptv2.intersurtv.cl/TVN/index.m3u8
-#EXTINF:-1 tvg-id="entry-3ff4d20c2b795515b257fe65" group-title="Chile",24 horas
+#EXTINF:-1 tvg-id="entry-3ff4d20c2b795515b257fe65" tvg-logo="https://i.imgur.com/0rF6Kub.png" group-title="Chile",24 horas
 https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8
-#EXTINF:-1 tvg-id="entry-cbf0dc5ccc9d10aa185477c5" group-title="Chile",NTV Ⓖ
+#EXTINF:-1 tvg-id="entry-cbf0dc5ccc9d10aa185477c5" tvg-logo="https://i.imgur.com/pt2Kj1A.png" group-title="Chile",NTV Ⓖ
 https://cdn1tlinkgo.tlink.cl/ntvhd/mono.m3u8
-#EXTINF:-1 tvg-id="entry-cf8d7f16d46b69e4d255bc87" group-title="Chile",TV Chile Ⓖ
+#EXTINF:-1 tvg-id="entry-cf8d7f16d46b69e4d255bc87" tvg-logo="https://i.imgur.com/yCL888l.png" group-title="Chile",TV Chile Ⓖ
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
-#EXTINF:-1 tvg-id="entry-cc46dcca15ee1c62917db694" group-title="Chile",TVN 3
+#EXTINF:-1 tvg-id="entry-cc46dcca15ee1c62917db694" tvg-logo="https://i.imgur.com/84lWqRi.png" group-title="Chile",TVN 3
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
-#EXTINF:-1 tvg-id="entry-bd20db90769ec4d849f1de1d" group-title="Chile",Chilevisión Ⓖ
+#EXTINF:-1 tvg-id="entry-bd20db90769ec4d849f1de1d" tvg-logo="https://i.imgur.com/2Pu8yXf.png" group-title="Chile",Chilevisión Ⓖ
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="entry-7e18dc7df2ff36103ea5355c" group-title="Chile",Chilevisión Noticias
+#EXTINF:-1 tvg-id="entry-7e18dc7df2ff36103ea5355c" tvg-logo="https://i.imgur.com/Qh6d0A9.png" group-title="Chile",Chilevisión Noticias
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="entry-93412974b15ad81fb0d80506" group-title="Chile",Chilevisión Deportes Ⓖ
+#EXTINF:-1 tvg-id="entry-93412974b15ad81fb0d80506" tvg-logo="https://i.imgur.com/eWCXl6a.jpeg" group-title="Chile",Chilevisión Deportes Ⓖ
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvdeportes/chvdeportes.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="entry-9798f8d2a7336bb4b97600c7" group-title="Chile",Canal 13
+#EXTINF:-1 tvg-id="entry-9798f8d2a7336bb4b97600c7" tvg-logo="https://i.imgur.com/JIo1HBs.png" group-title="Chile",Canal 13
 https://redirector.dps.live/hls/13cl/playlist.m3u8
-#EXTINF:-1 tvg-id="entry-d82f61c337225b78d99518d2" group-title="Chile",T13 en vivo
+#EXTINF:-1 tvg-id="entry-d82f61c337225b78d99518d2" tvg-logo="https://i.imgur.com/3CEijac.png" group-title="Chile",T13 en vivo
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="entry-35dfb108d942391d1070f9d5" group-title="Chile",13 Entretención
+#EXTINF:-1 tvg-id="entry-35dfb108d942391d1070f9d5" tvg-logo="https://i.imgur.com/1vTno0m.png" group-title="Chile",13 Entretención
 https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
-#EXTINF:-1 tvg-id="entry-41ee9786c5850af9c4d51494" group-title="Chile",13 Cultura
+#EXTINF:-1 tvg-id="entry-41ee9786c5850af9c4d51494" tvg-logo="https://i.imgur.com/49QkKWv.png" group-title="Chile",13 Cultura
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
-#EXTINF:-1 tvg-id="entry-86bc8a64039510f4bfd2d508" group-title="Chile",13 Prime
+#EXTINF:-1 tvg-id="entry-86bc8a64039510f4bfd2d508" tvg-logo="https://i.imgur.com/YwDFNxs.png" group-title="Chile",13 Prime
 https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
-#EXTINF:-1 tvg-id="entry-67304b65c1786bccd2a032c6" group-title="Chile",13 Kids
+#EXTINF:-1 tvg-id="entry-67304b65c1786bccd2a032c6" tvg-logo="https://i.imgur.com/m6y9AMe.png" group-title="Chile",13 Kids
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
-#EXTINF:-1 tvg-id="entry-521b7560bc20fc3df3211d29" group-title="Chile",13 Realities
+#EXTINF:-1 tvg-id="entry-521b7560bc20fc3df3211d29" tvg-logo="https://i.imgur.com/p1Qpljw.png" group-title="Chile",13 Realities
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
-#EXTINF:-1 tvg-id="entry-46b294d1dfd743bd37f4a1dc" group-title="Chile",13 Teleseries
+#EXTINF:-1 tvg-id="entry-46b294d1dfd743bd37f4a1dc" tvg-logo="https://i.imgur.com/aJMBnse.png" group-title="Chile",13 Teleseries
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
-#EXTINF:-1 tvg-id="entry-6896aa7d28b633ded6efd08c" group-title="Chile",Deportes13 Ⓖ
+#EXTINF:-1 tvg-id="entry-6896aa7d28b633ded6efd08c" tvg-logo="https://i.imgur.com/GRpxoPf.png" group-title="Chile",Deportes13 Ⓖ
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="entry-3dfe2a4566fdd3842b08f4d3" group-title="Chile",Mega
+#EXTINF:-1 tvg-id="entry-3dfe2a4566fdd3842b08f4d3" tvg-logo="https://i.imgur.com/CYdWSDb.png" group-title="Chile",Mega
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="entry-abf40142e3895c2b3b931c11" group-title="Chile",Mega 2
+#EXTINF:-1 tvg-id="entry-abf40142e3895c2b3b931c11" tvg-logo="https://i.imgur.com/c1ME00r.png" group-title="Chile",Mega 2
 http://15.204.196.147:22880/MEGA2-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8
-#EXTINF:-1 tvg-id="entry-2e2e42ce026f3d613e69ab6b" group-title="Chile",Meganoticias
+#EXTINF:-1 tvg-id="entry-2e2e42ce026f3d613e69ab6b" tvg-logo="https://i.imgur.com/JCVEqTc.png" group-title="Chile",Meganoticias
 http://15.204.196.147:22880/MEGANOTICIA-MEGAMEDIA-EE.UU-PROVEEDOR/video.m3u8
-#EXTINF:-1 tvg-id="entry-bdc9a52a403490e29b6441b4" group-title="Costa Rica",Canal 1
+#EXTINF:-1 tvg-id="entry-bdc9a52a403490e29b6441b4" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/gruponacion/2XI5OC6MQZFXXBDGMRRDOZSL2Q.jpg" group-title="Costa Rica",Canal 1
 https://vid.canal1cr.com:3424/multi_live/play_720.m3u8
-#EXTINF:-1 tvg-id="entry-2bc533f2e1138c3c9c1e10f8" group-title="Costa Rica",Canal 2 CDR
+#EXTINF:-1 tvg-id="entry-2bc533f2e1138c3c9c1e10f8" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Canal-2-Costa-Rica-en-vivo-Online.png" group-title="Costa Rica",Canal 2 CDR
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal2.m3u8
-#EXTINF:-1 tvg-id="entry-25bd716fbf714cd162313804" group-title="Costa Rica",Canal 4
+#EXTINF:-1 tvg-id="entry-25bd716fbf714cd162313804" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Canal-4-Costa-Rica-en-vivo-Online.png" group-title="Costa Rica",Canal 4
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal2.m3u8
-#EXTINF:-1 tvg-id="entry-b399daf0fbbeb32a8d832867" group-title="Costa Rica",Canal 6
+#EXTINF:-1 tvg-id="entry-b399daf0fbbeb32a8d832867" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Canal-6-Costa-Rica-en-vivo-Online.png" group-title="Costa Rica",Canal 6
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal2.m3u8
-#EXTINF:-1 tvg-id="entry-124d36b7b4fa8141266e8dc5" group-title="Costa Rica",Canal 8
+#EXTINF:-1 tvg-id="entry-124d36b7b4fa8141266e8dc5" tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/5efe501c21d05a0722152f6d.png" group-title="Costa Rica",Canal 8
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
-#EXTINF:-1 tvg-id="entry-572dde31320434e86a15ecb8" group-title="Costa Rica",Canal 11
+#EXTINF:-1 tvg-id="entry-572dde31320434e86a15ecb8" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Canal-11-Costa-Rica-en-vivo-Online.png" group-title="Costa Rica",Canal 11
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal2.m3u8
-#EXTINF:-1 tvg-id="entry-1dd290064d554171a8caafaa" group-title="Costa Rica",88 Stereo
+#EXTINF:-1 tvg-id="entry-1dd290064d554171a8caafaa" tvg-logo="http://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png" group-title="Costa Rica",88 Stereo
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
-#EXTINF:-1 tvg-id="entry-537dbbaae3d71a2f964c001c" group-title="Peru",Panamericana TV
+#EXTINF:-1 tvg-id="entry-537dbbaae3d71a2f964c001c" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Panamericana_tv_2009.png" group-title="Peru",Panamericana TV
 http://45.171.108.253:8888/PANAMERICANA/index.m3u8
-#EXTINF:-1 tvg-id="entry-68488f21e4547db5cccca73b" group-title="Peru",ATV+ Noticias
+#EXTINF:-1 tvg-id="entry-68488f21e4547db5cccca73b" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Atv_noticias_logo.png" group-title="Peru",ATV+ Noticias
 http://45.171.108.253:8888/ATV/index.m3u8
-#EXTINF:-1 tvg-id="entry-4007ddb914a26a345da81a0a" group-title="Peru",Exitosa (ex-Karibeña)
+#EXTINF:-1 tvg-id="entry-4007ddb914a26a345da81a0a" tvg-logo="https://i.pinimg.com/280x280_RS/11/85/b6/1185b667fe3f80d7072359d7ce7ce52d.jpg" group-title="Peru",Exitosa (ex-Karibeña)
 http://187.102.210.46/KARIBENA/index.m3u8
-#EXTINF:-1 tvg-id="entry-835141889e857a1561452beb" group-title="Peru",Exitosa (ex-Karibeña)
+#EXTINF:-1 tvg-id="entry-835141889e857a1561452beb" tvg-logo="https://i.pinimg.com/280x280_RS/11/85/b6/1185b667fe3f80d7072359d7ce7ce52d.jpg" group-title="Peru",Exitosa (ex-Karibeña)
 http://190.93.224.42/EXITOSA/index.m3u8
-#EXTINF:-1 tvg-id="entry-eb6a09a9bf6daf5ffc34d963" group-title="Peru",Latina
+#EXTINF:-1 tvg-id="entry-eb6a09a9bf6daf5ffc34d963" tvg-logo="https://graph.facebook.com/Latina.pe/picture?width=200&height=200" group-title="Peru",Latina
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="entry-bd8b61396dd8911e33ed5bb3" group-title="Peru",Cosmos TV
+#EXTINF:-1 tvg-id="entry-bd8b61396dd8911e33ed5bb3" tvg-logo="https://pbs.twimg.com/profile_images/1904206504753811457/66CbqvH1_200x200.jpg" group-title="Peru",Cosmos TV
 https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8
-#EXTINF:-1 tvg-id="entry-98aab9d6aa93fda2741d29a2" group-title="Dominican Republic",Canal RTVD 4
+#EXTINF:-1 tvg-id="entry-98aab9d6aa93fda2741d29a2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/CERTV_4_2015.png" group-title="Dominican Republic",Canal RTVD 4
 https://cdn.protvradiostream.com/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
-#EXTINF:-1 tvg-id="entry-849590294c1e0252e58785ff" group-title="VOD Movies (EN)",FilmRise Movies
+#EXTINF:-1 tvg-id="entry-849590294c1e0252e58785ff" tvg-logo="https://i.imgur.com/jGzMaRD.png" group-title="VOD Movies (EN)",FilmRise Movies
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="entry-ecbda0ccf3709162d7111e66" group-title="VOD Movies (EN)",FilmRise Sci-Fi
+#EXTINF:-1 tvg-id="entry-ecbda0ccf3709162d7111e66" tvg-logo="https://i.imgur.com/FcN1OKo.png" group-title="VOD Movies (EN)",FilmRise Sci-Fi
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8
-#EXTINF:-1 tvg-id="entry-e87db77d933ef6dd8982fd29" group-title="VOD Movies (EN)",Pluto TV Spotlight
+#EXTINF:-1 tvg-id="entry-e87db77d933ef6dd8982fd29" tvg-logo="https://i.imgur.com/AogTmZc.png" group-title="VOD Movies (EN)",Pluto TV Spotlight
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=51&deviceId=5ba3fb9c4b078e0f37ad34e8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="entry-1cbb8da496326833ea4c3699" group-title="VOD Movies (EN)",Pluto TV Action
+#EXTINF:-1 tvg-id="entry-1cbb8da496326833ea4c3699" tvg-logo="https://i.imgur.com/g8PCdh6.png" group-title="VOD Movies (EN)",Pluto TV Action
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=54&deviceId=561d7d484dc7c8770484914a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="entry-b291318a50bc787212b718e5" group-title="VOD Movies (EN)",Pluto TV Comedy
+#EXTINF:-1 tvg-id="entry-b291318a50bc787212b718e5" tvg-logo="https://i.imgur.com/Pjs4lgs.png" group-title="VOD Movies (EN)",Pluto TV Comedy
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=57&deviceId=5a4d3a00ad95e4718ae8d8db&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="entry-0cfbe12d99adaa05f6204159" group-title="VOD Movies (EN)",Pluto TV Drama
+#EXTINF:-1 tvg-id="entry-0cfbe12d99adaa05f6204159" tvg-logo="https://i.imgur.com/B9srooj.png" group-title="VOD Movies (EN)",Pluto TV Drama
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=60&deviceId=5b4e92e4694c027be6ecece1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="entry-7620a75369407c7de7339428" group-title="VOD Movies (EN)",Pluto TV Fantastic
+#EXTINF:-1 tvg-id="entry-7620a75369407c7de7339428" tvg-logo="https://i.imgur.com/dOfXc5w.png" group-title="VOD Movies (EN)",Pluto TV Fantastic
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=66&deviceId=5b64a245a202b3337f09e51d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="entry-1e0a29c495a1c78129f608ce" group-title="VOD Movies (EN)",Pluto TV Romance
+#EXTINF:-1 tvg-id="entry-1e0a29c495a1c78129f608ce" tvg-logo="https://i.imgur.com/j6livg0.png" group-title="VOD Movies (EN)",Pluto TV Romance
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=70&deviceId=5a66795ef91fef2c7031c599&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="entry-b3a17593eccea6e8943ccdc9" group-title="VOD Movies (EN)",Pluto TV Crime Movies
+#EXTINF:-1 tvg-id="entry-b3a17593eccea6e8943ccdc9" tvg-logo="https://i.imgur.com/PlAQrIb.png" group-title="VOD Movies (EN)",Pluto TV Crime Movies
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=73&deviceId=5f4d8594eb979c0007706de7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="entry-2cb72dc56af310b9bc877b19" group-title="VOD Movies (EN)",Pluto TV Thrillers
+#EXTINF:-1 tvg-id="entry-2cb72dc56af310b9bc877b19" tvg-logo="https://i.imgur.com/jyiFzG4.png" group-title="VOD Movies (EN)",Pluto TV Thrillers
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=74&deviceId=5b4e69e08291147bd04a9fd7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="entry-f7ad05678509f8d661071fa0" group-title="VOD Movies (EN)",Pluto TV Horror
+#EXTINF:-1 tvg-id="entry-f7ad05678509f8d661071fa0" tvg-logo="https://i.imgur.com/An93hAh.png" group-title="VOD Movies (EN)",Pluto TV Horror
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=75&deviceId=569546031a619b8f07ce6e25&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="entry-60737282bb4953c381e2357b" group-title="VOD Movies (EN)",Pluto TV Terror
+#EXTINF:-1 tvg-id="entry-60737282bb4953c381e2357b" tvg-logo="https://i.imgur.com/JLgn5jC.png" group-title="VOD Movies (EN)",Pluto TV Terror
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=76&deviceId=5c6dc88fcd232425a6e0f06e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="entry-d85f7379dbc934e6fd76c8f4" group-title="VOD Movies (EN)",Black Cinema
+#EXTINF:-1 tvg-id="entry-d85f7379dbc934e6fd76c8f4" tvg-logo="https://i.imgur.com/Zh1QGW9.png" group-title="VOD Movies (EN)",Black Cinema
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=80&deviceId=58af4c093a41ca9d4ecabe96&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="entry-593c673b320a7abc3fb5590f" group-title="VOD Movies (EN)",Pluto TV Staff Picks
+#EXTINF:-1 tvg-id="entry-593c673b320a7abc3fb5590f" tvg-logo="https://i.imgur.com/DFDHAT8.png" group-title="VOD Movies (EN)",Pluto TV Staff Picks
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d863b98b41000076cd061/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=90&deviceId=5f4d863b98b41000076cd061&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="entry-af41c05b631e1856818a9c8f" group-title="VOD Movies (EN)",Pluto TV Documentaries
+#EXTINF:-1 tvg-id="entry-af41c05b631e1856818a9c8f" tvg-logo="https://i.imgur.com/Mr4ZsNZ.png" group-title="VOD Movies (EN)",Pluto TV Documentaries
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b85a7582921777994caea63/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=91&deviceId=5b85a7582921777994caea63&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="entry-90a59f497a86afd0676c934e" group-title="VOD Movies (EN)",90s Throwback
+#EXTINF:-1 tvg-id="entry-90a59f497a86afd0676c934e" tvg-logo="https://i.imgur.com/sI1o3uK.png" group-title="VOD Movies (EN)",90s Throwback
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d86f519358a00072b978e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=94&deviceId=5f4d86f519358a00072b978e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="entry-e866120d293d562903b5df0e" group-title="VOD Movies (EN)",80s Rewind
+#EXTINF:-1 tvg-id="entry-e866120d293d562903b5df0e" tvg-logo="https://i.imgur.com/0FaLAhK.png" group-title="VOD Movies (EN)",80s Rewind
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca525b650be2571e3943c63/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=95&deviceId=5ca525b650be2571e3943c63&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="entry-a593caaad2454d418b0e7ada" group-title="VOD Movies (EN)",70s Cinema
+#EXTINF:-1 tvg-id="entry-a593caaad2454d418b0e7ada" tvg-logo="https://i.imgur.com/wk9Baz9.png" group-title="VOD Movies (EN)",70s Cinema
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=96&deviceId=5f4d878d3d19b30007d2e782&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="entry-816b49bc6a398f890ae03283" group-title="VOD Movies (EN)",Paramount Movie Channel
+#EXTINF:-1 tvg-id="entry-816b49bc6a398f890ae03283" tvg-logo="https://i.imgur.com/CfqRav0.png" group-title="VOD Movies (EN)",Paramount Movie Channel
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=100&deviceId=5cb0cae7a461406ffe3f5213&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="entry-c41a24c4549e1facd132cd15" group-title="VOD Movies (EN)",Pluto TV Westerns
+#EXTINF:-1 tvg-id="entry-c41a24c4549e1facd132cd15" tvg-logo="https://i.imgur.com/79R7m0b.png" group-title="VOD Movies (EN)",Pluto TV Westerns
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=103&deviceId=5b4e94282d4ec87bdcbb87cd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="entry-a5cb69049674f5b6427cd147" group-title="VOD Movies (EN)",Classic Movies
+#EXTINF:-1 tvg-id="entry-a5cb69049674f5b6427cd147" tvg-logo="https://i.imgur.com/feWPHep.png" group-title="VOD Movies (EN)",Classic Movies
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=106&deviceId=561c5b0dada51f8004c4d855&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="entry-b3fcc47edfbbbaa9592d703a" group-title="VOD Movies (EN)",Pluto TV Cult Films
+#EXTINF:-1 tvg-id="entry-b3fcc47edfbbbaa9592d703a" tvg-logo="https://i.imgur.com/kD3SkoC.png" group-title="VOD Movies (EN)",Pluto TV Cult Films
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=109&deviceId=5c665db3e6c01b72c4977bc2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="entry-c6176b06a4508ff4a9038d2d" group-title="VOD Movies (EN)",Flicks of Fury
+#EXTINF:-1 tvg-id="entry-c6176b06a4508ff4a9038d2d" tvg-logo="https://i.imgur.com/yhyzBfb.png" group-title="VOD Movies (EN)",Flicks of Fury
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=112&deviceId=58e55b14ad8e9c364d55f717&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="entry-e4a9391edba2e2e1864001d0" group-title="VOD Movies (EN)",The Asylum
+#EXTINF:-1 tvg-id="entry-e4a9391edba2e2e1864001d0" tvg-logo="https://i.imgur.com/rOxQfdG.png" group-title="VOD Movies (EN)",The Asylum
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/591105034c1806b47438342c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=115&deviceId=591105034c1806b47438342c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="entry-bae743bec40f46f2bd92ff43" group-title="VOD Movies (EN)",Film Detective
+#EXTINF:-1 tvg-id="entry-bae743bec40f46f2bd92ff43" tvg-logo="https://i.imgur.com/4aFLH9g.png" group-title="VOD Movies (EN)",Film Detective
 https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
-#EXTINF:-1 tvg-id="entry-10933443bb58d43a44566012" group-title="VOD Movies (EN)",Action Hollywood Movies
+#EXTINF:-1 tvg-id="entry-10933443bb58d43a44566012" tvg-logo="" group-title="VOD Movies (EN)",Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="entry-bec86e2a9c9f2844ee09f5f5" group-title="Movies",Cine Terror LatAm
+#EXTINF:-1 tvg-id="entry-bec86e2a9c9f2844ee09f5f5" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="Movies",Cine Terror LatAm
 https://jmp2.uk/plu-5dcddf1ed95e740009fef7ab.m3u8
-#EXTINF:-1 tvg-id="entry-4940b49d85b59e0d48fd4271" group-title="Movies",Pluto TV A La Mexicana
+#EXTINF:-1 tvg-id="entry-4940b49d85b59e0d48fd4271" tvg-logo="https://images.pluto.tv/channels/5dfcde52d28b09000a42d7a2/colorLogoPNG.png" group-title="Movies",Pluto TV A La Mexicana
 https://jmp2.uk/plu-5dfcde52d28b09000a42d7a2.m3u8
-#EXTINF:-1 tvg-id="entry-cc6ac978aacacc1d1f4ee08e" group-title="Movies",Pluto TV Cine Accion
+#EXTINF:-1 tvg-id="entry-cc6ac978aacacc1d1f4ee08e" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG_1760378798093.png" group-title="Movies",Pluto TV Cine Accion
 https://jmp2.uk/plu-5dcb62e63d4d8f0009f36881.m3u8
-#EXTINF:-1 tvg-id="entry-4b4ef961c7f31d385e54643d" group-title="Movies",Pluto TV Cine Clasico
+#EXTINF:-1 tvg-id="entry-4b4ef961c7f31d385e54643d" tvg-logo="https://images.pluto.tv/channels/609059dc63be6e0007b4eca6/colorLogoPNG.png" group-title="Movies",Pluto TV Cine Clasico
 https://jmp2.uk/plu-609059dc63be6e0007b4eca6.m3u8
-#EXTINF:-1 tvg-id="entry-fcf00909c0741c2c95c59370" group-title="Movies",Pluto TV Cine Comedia (United States) LatAm
+#EXTINF:-1 tvg-id="entry-fcf00909c0741c2c95c59370" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG_1732662798298.png" group-title="Movies",Pluto TV Cine Comedia (United States) LatAm
 https://jmp2.uk/plu-5dcdde78f080d900098550e4.m3u8
-#EXTINF:-1 tvg-id="entry-efc20f2772a56970ea6de55b" group-title="Movies",Pluto TV Cine Crimen
+#EXTINF:-1 tvg-id="entry-efc20f2772a56970ea6de55b" tvg-logo="https://images.pluto.tv/channels/624af40c004f8000079b784d/colorLogoPNG.png" group-title="Movies",Pluto TV Cine Crimen
 https://jmp2.uk/plu-624af40c004f8000079b784d.m3u8
-#EXTINF:-1 tvg-id="entry-c9640fc8a9fb8467b4623d3f" group-title="Movies",Pluto TV Cine Drama LatAm
+#EXTINF:-1 tvg-id="entry-c9640fc8a9fb8467b4623d3f" tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png" group-title="Movies",Pluto TV Cine Drama LatAm
 https://jmp2.uk/plu-5dcddfcb229eff00091b6bdf.m3u8
-#EXTINF:-1 tvg-id="entry-e7c4fd4b565bef9a4d92f7db" group-title="Movies",Pluto TV Cine Estelar
+#EXTINF:-1 tvg-id="entry-e7c4fd4b565bef9a4d92f7db" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG_1769014514491.png" group-title="Movies",Pluto TV Cine Estelar
 https://jmp2.uk/plu-5dcde437229eff00091b6c30.m3u8
-#EXTINF:-1 tvg-id="entry-d417c385dc8923977cafdfd6" group-title="Movies",Pluto TV Cine Familia LatAm
+#EXTINF:-1 tvg-id="entry-d417c385dc8923977cafdfd6" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG_1732045254120.png" group-title="Movies",Pluto TV Cine Familia LatAm
 https://jmp2.uk/plu-5dd6ddb30a1d8a000908ed4c.m3u8
-#EXTINF:-1 tvg-id="entry-59b1f3b7d78584312dffecc8" group-title="Movies",Pluto TV Cine Inspirador
+#EXTINF:-1 tvg-id="entry-59b1f3b7d78584312dffecc8" tvg-logo="https://images.pluto.tv/channels/6806d519fea7414f33f57016/colorLogoPNG_1746817663597.png" group-title="Movies",Pluto TV Cine Inspirador
 https://jmp2.uk/plu-6806d519fea7414f33f57016.m3u8
-#EXTINF:-1 tvg-id="entry-1d0bcbbd17152e9207fc53e1" group-title="Movies",Pluto TV Cine Romance LatAm
+#EXTINF:-1 tvg-id="entry-1d0bcbbd17152e9207fc53e1" tvg-logo="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG_1771344977802.png" group-title="Movies",Pluto TV Cine Romance LatAm
 https://jmp2.uk/plu-5dd7ea2aeab5230009986735.m3u8
-#EXTINF:-1 tvg-id="entry-b39d8fe13a3bdcb4d3e49c36" group-title="Movies",Pluto TV Cine Suspenso
+#EXTINF:-1 tvg-id="entry-b39d8fe13a3bdcb4d3e49c36" tvg-logo="https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/colorLogoPNG.png" group-title="Movies",Pluto TV Cine Suspenso
 https://jmp2.uk/plu-5ddc4e8bcbb9010009b4e84f.m3u8
-#EXTINF:-1 tvg-id="entry-3bc9d3940ad40fcf1fbc3b02" group-title="Movies",Pluto TV Nuestro Cine
+#EXTINF:-1 tvg-id="entry-3bc9d3940ad40fcf1fbc3b02" tvg-logo="https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/colorLogoPNG.png" group-title="Movies",Pluto TV Nuestro Cine
 https://jmp2.uk/plu-5defde6d6c07b50009cf0757.m3u8
-#EXTINF:-1 tvg-id="entry-cf3db343426ea103afb0dc58" group-title="Movies;Series",Pluto TV Sci-Fi (United States) LatAm
+#EXTINF:-1 tvg-id="entry-cf3db343426ea103afb0dc58" tvg-logo="https://images.pluto.tv/channels/66166cb1307fa30008f275e7/colorLogoPNG.png" group-title="Movies;Series",Pluto TV Sci-Fi (United States) LatAm
 https://jmp2.uk/plu-5f2817d3d7573a00080f9175.m3u8
-#EXTINF:-1 tvg-id="entry-6f9b0f675c21512e26365245" group-title="Series",Acapulco Shore
+#EXTINF:-1 tvg-id="entry-6f9b0f675c21512e26365245" tvg-logo="https://images.pluto.tv/channels/61a52615cbef2500072876e2/colorLogoPNG_1756972226445.png" group-title="Series",Acapulco Shore
 https://jmp2.uk/plu-61a52615cbef2500072876e2.m3u8
-#EXTINF:-1 tvg-id="entry-d535fcd14f6deff1d7674813" group-title="Series",CSI: Miami LatAm
+#EXTINF:-1 tvg-id="entry-d535fcd14f6deff1d7674813" tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png" group-title="Series",CSI: Miami LatAm
 https://jmp2.uk/plu-63eb9255c111bc0008fe6ec4.m3u8
-#EXTINF:-1 tvg-id="entry-538050fa57f0768b76b5ce8a" group-title="Series",iCarly (United States) LatAm
+#EXTINF:-1 tvg-id="entry-538050fa57f0768b76b5ce8a" tvg-logo="https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png" group-title="Series",iCarly (United States) LatAm
 https://jmp2.uk/plu-620ff0a01f9e8700076c6f9d.m3u8
-#EXTINF:-1 tvg-id="entry-10b0daa0c19aee6a897da632" group-title="Series",Investiga
+#EXTINF:-1 tvg-id="entry-10b0daa0c19aee6a897da632" tvg-logo="https://images.pluto.tv/channels/5cf96b8f4f1ca3f0629f4bf1/colorLogoPNG.png" group-title="Series",Investiga
 https://jmp2.uk/plu-5dcde27ffae9520009c0c75a.m3u8
-#EXTINF:-1 tvg-id="entry-6c0151166de97815fb4b6cfb" group-title="Series",Kenan & Kel
+#EXTINF:-1 tvg-id="entry-6c0151166de97815fb4b6cfb" tvg-logo="https://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/colorLogoPNG.png" group-title="Series",Kenan & Kel
 https://jmp2.uk/plu-5fcea93ffcf94500071c4b2f.m3u8
-#EXTINF:-1 tvg-id="entry-eb91858d36061779c0528b70" group-title="Series",MTV Dating (United States) LatAm (720p)
+#EXTINF:-1 tvg-id="entry-eb91858d36061779c0528b70" tvg-logo="https://images.pluto.tv/channels/6851bb3426beced4f2f67ee6/colorLogoPNG_1750686926779.png" group-title="Series",MTV Dating (United States) LatAm (720p)
 https://jmp2.uk/plu-6851b909954170e0128bc71d.m3u8
-#EXTINF:-1 tvg-id="entry-2663eba79092bd790ae7e1bd" group-title="Series",MTV Teen Mom (United States) (720p)
+#EXTINF:-1 tvg-id="entry-2663eba79092bd790ae7e1bd" tvg-logo="https://images.pluto.tv/channels/620fd9f4afb9a80007a9c6d5/colorLogoPNG.png" group-title="Series",MTV Teen Mom (United States) (720p)
 https://jmp2.uk/plu-620fd9f4afb9a80007a9c6d5.m3u8
-#EXTINF:-1 tvg-id="entry-a5a9cce4b2d8cb2a3da52347" group-title="Series",NCIS (United States) LatAm
+#EXTINF:-1 tvg-id="entry-a5a9cce4b2d8cb2a3da52347" tvg-logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png" group-title="Series",NCIS (United States) LatAm
 https://jmp2.uk/plu-63eb947c4e83e70008ab877b.m3u8
-#EXTINF:-1 tvg-id="entry-f5d897841c216a5b316c3fce" group-title="Series",Numeros
+#EXTINF:-1 tvg-id="entry-f5d897841c216a5b316c3fce" tvg-logo="https://images.pluto.tv/channels/67f960680072d6b187a0682e/colorLogoPNG_1747415112008.png" group-title="Series",Numeros
 https://jmp2.uk/plu-67f960680072d6b187a0682e.m3u8
-#EXTINF:-1 tvg-id="entry-0f191e3f325e7c61c321144e" group-title="Series",Pluto TV Aventura
+#EXTINF:-1 tvg-id="entry-0f191e3f325e7c61c321144e" tvg-logo="https://images.pluto.tv/channels/5ddc266f80e3550009136843/colorLogoPNG.png" group-title="Series",Pluto TV Aventura
 https://jmp2.uk/plu-5ddc266f80e3550009136843.m3u8
-#EXTINF:-1 tvg-id="entry-f23ee2be4c39a0c99fc87500" group-title="Series",Pluto TV Dramas Coreanos
+#EXTINF:-1 tvg-id="entry-f23ee2be4c39a0c99fc87500" tvg-logo="https://images.pluto.tv/channels/6185a9a88b2ce30007de5128/colorLogoPNG_1765467371603.png" group-title="Series",Pluto TV Dramas Coreanos
 https://jmp2.uk/plu-6185a9a88b2ce30007de5128.m3u8
-#EXTINF:-1 tvg-id="entry-ebd03fa23b2a8a1077989b80" group-title="Series",Pluto TV Dramas Coreanos Teen
+#EXTINF:-1 tvg-id="entry-ebd03fa23b2a8a1077989b80" tvg-logo="https://images.pluto.tv/channels/6661d5424b10960008599fa3/colorLogoPNG_1765467438253.png" group-title="Series",Pluto TV Dramas Coreanos Teen
 https://jmp2.uk/plu-6661d5424b10960008599fa3.m3u8
-#EXTINF:-1 tvg-id="entry-7df3ddf2973f07537710e5a4" group-title="Series",Pluto TV Novelas LatAm
+#EXTINF:-1 tvg-id="entry-7df3ddf2973f07537710e5a4" tvg-logo="https://images.pluto.tv/channels/5f512365abe1f50007d3ff56/colorLogoPNG.png" group-title="Series",Pluto TV Novelas LatAm
 https://jmp2.uk/plu-5dcde0cc2efd2700090b7ff4.m3u8
-#EXTINF:-1 tvg-id="entry-25cae5b7dc41d1332ba39eb7" group-title="Series",Pluto TV Novelas de Mexico
+#EXTINF:-1 tvg-id="entry-25cae5b7dc41d1332ba39eb7" tvg-logo="https://images.pluto.tv/channels/6474a7958e3c0a0008b97cae/colorLogoPNG_1765475296297.png" group-title="Series",Pluto TV Novelas de Mexico
 https://jmp2.uk/plu-6474a7958e3c0a0008b97cae.m3u8
-#EXTINF:-1 tvg-id="entry-e9b86f2001947f4b61963b9d" group-title="Series",Pluto TV Novelas de Otros Continentes
+#EXTINF:-1 tvg-id="entry-e9b86f2001947f4b61963b9d" tvg-logo="https://images.pluto.tv/channels/686eed4c677f2f98b4a1ccd4/colorLogoPNG_1765466599084.png" group-title="Series",Pluto TV Novelas de Otros Continentes
 https://jmp2.uk/plu-686eed4c677f2f98b4a1ccd4.m3u8
-#EXTINF:-1 tvg-id="entry-019977bdd460cc4f6abd50e8" group-title="Series",Pluto TV Novelas de Venezuela
+#EXTINF:-1 tvg-id="entry-019977bdd460cc4f6abd50e8" tvg-logo="https://images.pluto.tv/channels/6474a86917f5e100089a0c1c/colorLogoPNG_1765471713312.png" group-title="Series",Pluto TV Novelas de Venezuela
 https://jmp2.uk/plu-6474a86917f5e100089a0c1c.m3u8
-#EXTINF:-1 tvg-id="entry-7084d3cd9ba0b186c706d59e" group-title="Movies;Series",Pluto TV Sci-Fi (United States) LatAm
+#EXTINF:-1 tvg-id="entry-7084d3cd9ba0b186c706d59e" tvg-logo="https://images.pluto.tv/channels/66166cb1307fa30008f275e7/colorLogoPNG.png" group-title="Movies;Series",Pluto TV Sci-Fi (United States) LatAm
 https://jmp2.uk/plu-5f2817d3d7573a00080f9175.m3u8
-#EXTINF:-1 tvg-id="entry-ec6479d5f7f8ff183bb2c66a" group-title="Series",Pluto TV Series
+#EXTINF:-1 tvg-id="entry-ec6479d5f7f8ff183bb2c66a" tvg-logo="https://images.pluto.tv/channels/5dcde1317578340009b751d0/colorLogoPNG.png" group-title="Series",Pluto TV Series
 https://jmp2.uk/plu-5dcde1317578340009b751d0.m3u8
-#EXTINF:-1 tvg-id="entry-db1090ca98faaf8e7b1673b5" group-title="Series",Pluto TV Series de Accion
+#EXTINF:-1 tvg-id="entry-db1090ca98faaf8e7b1673b5" tvg-logo="https://images.pluto.tv/channels/6479ff1c17f5e10008ad2797/colorLogoPNG.png" group-title="Series",Pluto TV Series de Accion
 https://jmp2.uk/plu-6479ff1c17f5e10008ad2797.m3u8
-#EXTINF:-1 tvg-id="entry-17eadf560ed2c74860fc62e1" group-title="Series",Pluto TV Series de Comedia
+#EXTINF:-1 tvg-id="entry-17eadf560ed2c74860fc62e1" tvg-logo="https://images.pluto.tv/channels/655f626d57fe4a00085c7c3e/colorLogoPNG.png" group-title="Series",Pluto TV Series de Comedia
 https://jmp2.uk/plu-655f626d57fe4a00085c7c3e.m3u8
-#EXTINF:-1 tvg-id="entry-9b7657e793c577e96d68ab39" group-title="Series",Pluto TV Series de Crimen
+#EXTINF:-1 tvg-id="entry-9b7657e793c577e96d68ab39" tvg-logo="https://images.pluto.tv/channels/655f62ff954b020008c91ec6/colorLogoPNG.png" group-title="Series",Pluto TV Series de Crimen
 https://jmp2.uk/plu-655f62ff954b020008c91ec6.m3u8
-#EXTINF:-1 tvg-id="entry-7ea964909971e0d3b707c0fa" group-title="Series",Pluto TV Series de Drama
+#EXTINF:-1 tvg-id="entry-7ea964909971e0d3b707c0fa" tvg-logo="https://images.pluto.tv/channels/655f636d954b020008c93299/colorLogoPNG_1765466171343.png" group-title="Series",Pluto TV Series de Drama
 https://jmp2.uk/plu-655f636d954b020008c93299.m3u8
-#EXTINF:-1 tvg-id="entry-76428951eb6448567f21a8bd" group-title="Series",Pluto TV Series de Otros Continentes
+#EXTINF:-1 tvg-id="entry-76428951eb6448567f21a8bd" tvg-logo="https://images.pluto.tv/channels/6806d570c178637410ae4962/colorLogoPNG_1765466496602.png" group-title="Series",Pluto TV Series de Otros Continentes
 https://jmp2.uk/plu-6806d570c178637410ae4962.m3u8
-#EXTINF:-1 tvg-id="entry-03429abf7959f655ae9d41bb" group-title="Series",Pluto TV Series de Sci-Fi
+#EXTINF:-1 tvg-id="entry-03429abf7959f655ae9d41bb" tvg-logo="https://images.pluto.tv/channels/65662f8a2c46f300088a84cc/colorLogoPNG.png" group-title="Series",Pluto TV Series de Sci-Fi
 https://jmp2.uk/plu-65662f8a2c46f300088a84cc.m3u8
-#EXTINF:-1 tvg-id="entry-5b2daffbc8241266749ea529" group-title="Series",Pluto TV Series Latinas
+#EXTINF:-1 tvg-id="entry-5b2daffbc8241266749ea529" tvg-logo="https://images.pluto.tv/channels/5dd837642c6e9300098ad484/colorLogoPNG.png" group-title="Series",Pluto TV Series Latinas
 https://jmp2.uk/plu-5dd837642c6e9300098ad484.m3u8
-#EXTINF:-1 tvg-id="entry-d16de796392e8c692722c0fd" group-title="Series",Star Trek LatAm
+#EXTINF:-1 tvg-id="entry-d16de796392e8c692722c0fd" tvg-logo="https://images.pluto.tv/channels/5efbd39f8c4ce900075d7698/colorLogoPNG.png" group-title="Series",Star Trek LatAm
 https://jmp2.uk/plu-5ec5761aabe4690007f6e047.m3u8
-#EXTINF:-1 tvg-id="entry-01bc847497f8926c0378c398" group-title="Series",The New Detectives (United States) LatAm
+#EXTINF:-1 tvg-id="entry-01bc847497f8926c0378c398" tvg-logo="https://images.pluto.tv/channels/62bdabbc5611f2000761ca30/colorLogoPNG.png" group-title="Series",The New Detectives (United States) LatAm
 https://jmp2.uk/plu-5ea71d48af1d0b0007d837f4.m3u8
-#EXTINF:-1 tvg-id="entry-890ce323246147cb9019b5f5" group-title="Películas cortas · Blender · CC BY",Big Buck Bunny (9.9 min)
+#EXTINF:-1 tvg-id="entry-890ce323246147cb9019b5f5" tvg-logo="https://video.blender.org/lazy-static/thumbnails/bf1f3fb5-b119-4f9f-9930-8e20e892b898.jpg" group-title="Películas cortas · Blender · CC BY",Big Buck Bunny (9.9 min)
 https://video.blender.org/object-storage/web_videos/bf1f3fb5-b119-4f9f-9930-8e20e892b898-720.mp4
-#EXTINF:-1 tvg-id="entry-23f813326e9f996140acdf5b" group-title="Películas cortas · Blender · CC BY",Elephants Dream (10.9 min)
+#EXTINF:-1 tvg-id="entry-23f813326e9f996140acdf5b" tvg-logo="https://video.blender.org/lazy-static/thumbnails/cccc3e60-0291-4ecc-aa56-39b2e2c7d0d5.jpg" group-title="Películas cortas · Blender · CC BY",Elephants Dream (10.9 min)
 https://video.blender.org/object-storage/web_videos/cccc3e60-0291-4ecc-aa56-39b2e2c7d0d5-720.mp4
-#EXTINF:-1 tvg-id="entry-a71bd926be5e6b0257608b7c" group-title="Películas cortas · Blender · CC BY",Sintel (14.8 min)
+#EXTINF:-1 tvg-id="entry-a71bd926be5e6b0257608b7c" tvg-logo="https://video.blender.org/lazy-static/thumbnails/0eb052d0-fd51-43e6-aa33-ecdbf77a5d40.jpg" group-title="Películas cortas · Blender · CC BY",Sintel (14.8 min)
 https://video.blender.org/object-storage/web_videos/0eb052d0-fd51-43e6-aa33-ecdbf77a5d40-720.mp4
-#EXTINF:-1 tvg-id="entry-7cb90b48b5e37cdd880b57dd" group-title="Películas cortas · Blender · CC BY",Tears of Steel (12.2 min)
+#EXTINF:-1 tvg-id="entry-7cb90b48b5e37cdd880b57dd" tvg-logo="https://video.blender.org/lazy-static/thumbnails/8533ea43-4271-4a57-9694-e9d0b35e1aa1.jpg" group-title="Películas cortas · Blender · CC BY",Tears of Steel (12.2 min)
 https://video.blender.org/object-storage/web_videos/8533ea43-4271-4a57-9694-e9d0b35e1aa1-720.mp4
-#EXTINF:-1 tvg-id="entry-eb1d732f6da92470ca54b86c" group-title="Películas cortas · Blender · CC BY",Spring (7.7 min)
+#EXTINF:-1 tvg-id="entry-eb1d732f6da92470ca54b86c" tvg-logo="https://video.blender.org/lazy-static/thumbnails/3d95fb3d-c866-42c8-9db1-fe82f48ccb95.jpg" group-title="Películas cortas · Blender · CC BY",Spring (7.7 min)
 https://video.blender.org/object-storage/web_videos/3d95fb3d-c866-42c8-9db1-fe82f48ccb95-720.mp4
-#EXTINF:-1 tvg-id="entry-16d9831bbb306816b574e290" group-title="Películas cortas · Blender · CC BY",Coffee Run (3.1 min)
+#EXTINF:-1 tvg-id="entry-16d9831bbb306816b574e290" tvg-logo="https://video.blender.org/lazy-static/thumbnails/ff8fe61b-026f-4f07-b66b-2a790d6f6ab1.jpg" group-title="Películas cortas · Blender · CC BY",Coffee Run (3.1 min)
 https://video.blender.org/object-storage/web_videos/ff8fe61b-026f-4f07-b66b-2a790d6f6ab1-720.mp4
-#EXTINF:-1 tvg-id="entry-afcaa177a02e81f9c2b055bb" group-title="Caminandes · Serie de cortos · Blender · CC BY",Caminandes · Episodio 2 · Gran Dillama (2.4 min)
+#EXTINF:-1 tvg-id="entry-afcaa177a02e81f9c2b055bb" tvg-logo="https://video.blender.org/lazy-static/thumbnails/fb70d459-48d2-4db5-adba-813c84f9200a.jpg" group-title="Caminandes · Serie de cortos · Blender · CC BY",Caminandes · Episodio 2 · Gran Dillama (2.4 min)
 https://video.blender.org/object-storage/web_videos/fb70d459-48d2-4db5-adba-813c84f9200a-720.mp4
-#EXTINF:-1 tvg-id="entry-87b3593a33c75256b4b16509" group-title="Caminandes · Serie de cortos · Blender · CC BY",Caminandes · Episodio 3 · Llamigos (2.5 min)
+#EXTINF:-1 tvg-id="entry-87b3593a33c75256b4b16509" tvg-logo="https://video.blender.org/lazy-static/thumbnails/23f3ef79-15dc-44c5-aa45-cf92e78a4509.jpg" group-title="Caminandes · Serie de cortos · Blender · CC BY",Caminandes · Episodio 3 · Llamigos (2.5 min)
 https://video.blender.org/object-storage/web_videos/23f3ef79-15dc-44c5-aa45-cf92e78a4509-720.mp4
-#EXTINF:-1 tvg-id="entry-2278934d615d4bad545fc37d" group-title="Largometrajes documentales · Español",La educación prohibida (145 min · Español)
+#EXTINF:-1 tvg-id="entry-2278934d615d4bad545fc37d" tvg-logo="https://archive.org/services/img/LaEducacionProhibida" group-title="Largometrajes documentales · Español",La educación prohibida (145 min · Español)
 https://archive.org/download/LaEducacionProhibida/la_educacion_prohibida.mp4
-#EXTINF:-1 tvg-id="entry-b662c147f14af823f0c38c80" group-title="Largometrajes documentales · Español",Hard as Indie (93 min · Español)
+#EXTINF:-1 tvg-id="entry-b662c147f14af823f0c38c80" tvg-logo="https://archive.org/services/img/hard-as-indie-2018.es" group-title="Largometrajes documentales · Español",Hard as Indie (93 min · Español)
 https://archive.org/download/hard-as-indie-2018.es/Hard%20as%20Indie%20%282018%29.mp4
-#EXTINF:-1 tvg-id="entry-7efae5cc31b5870a4d513758" group-title="Ficción animada · VOSE",Sita Sings the Blues (82 min · VOSE)
+#EXTINF:-1 tvg-id="entry-7efae5cc31b5870a4d513758" tvg-logo="https://archive.org/services/img/Sita_Sings_the_Blues" group-title="Ficción animada · VOSE",Sita Sings the Blues (82 min · VOSE)
 https://archive.org/download/Sita_Sings_the_Blues/Sita_Sings_the_Blues_480p_2150kbps.mp4
-#EXTINF:-1 tvg-id="entry-4b6a343f8a5bc18f40771bed" group-title="Ficción animada · VOSE",Seder-Masochism (78 min · VOSE)
+#EXTINF:-1 tvg-id="entry-4b6a343f8a5bc18f40771bed" tvg-logo="https://archive.org/services/img/sedermasochism" group-title="Ficción animada · VOSE",Seder-Masochism (78 min · VOSE)
 https://archive.org/download/sedermasochism/Seder-Masochism%20final%2005-18-18_720p.mp4
-#EXTINF:-1 tvg-id="entry-53819bf5a55b0547f7a6d7f1" group-title="Pioneer One · Ciencia ficción · VOSE",Pioneer One · 1x01 Earthfall (34 min · VOSE)
+#EXTINF:-1 tvg-id="entry-53819bf5a55b0547f7a6d7f1" tvg-logo="https://archive.org/services/img/PioneerOneS01E01" group-title="Pioneer One · Ciencia ficción · VOSE",Pioneer One · 1x01 Earthfall (34 min · VOSE)
 https://archive.org/download/PioneerOneS01E01/Content/Pioneer.One.S01E01.REFIX.Xvid-VODO.mp4
-#EXTINF:-1 tvg-id="entry-25cb90eaa350dd078a6be9c2" group-title="Pioneer One · Ciencia ficción · VOSE",Pioneer One · 1x02 The Man From Mars (39 min · VOSE)
+#EXTINF:-1 tvg-id="entry-25cb90eaa350dd078a6be9c2" tvg-logo="https://archive.org/services/img/pioneer-one" group-title="Pioneer One · Ciencia ficción · VOSE",Pioneer One · 1x02 The Man From Mars (39 min · VOSE)
 https://archive.org/download/pioneer-one/data/season%201/02.mp4
