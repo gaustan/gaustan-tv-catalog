@@ -1,0 +1,2068 @@
+{
+  "schemaVersion": 1,
+  "revision": 1,
+  "updatedAt": "2026-10-27",
+  "sources": [
+    {
+      "id": "public-freetv-mexico",
+      "name": "México · Free-TV",
+      "origin": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_mexico.m3u8",
+      "entries": [
+        {
+          "name": "Alcarria TV",
+          "group": "Mexico",
+          "tvgId": "AlcarriaTV.es",
+          "logo": "https://i.imgur.com/zNSuxVZ.jpg",
+          "url": "http://cls.alcarria.tv/live/alcarriatv-livestream.m3u8",
+          "type": "stream",
+          "id": "entry-10e7d500f9b17fbe9808a36a",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_mexico.m3u8"
+        },
+        {
+          "name": "Hipodromo de las Americas",
+          "group": "Mexico",
+          "tvgId": "HipodromodelasAmericas.mx",
+          "logo": "https://i.imgur.com/wc8MlGw.png",
+          "url": "http://wms30.tecnoxia.com/soelvi/abr_soelvi/playlist.m3u8",
+          "type": "stream",
+          "id": "entry-2ec0c08f3ed2e3cc688ca68e",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_mexico.m3u8"
+        },
+        {
+          "name": "MVM NoticiasⓈ",
+          "group": "Mexico",
+          "tvgId": "MVMNoticias.mx",
+          "logo": "https://i.imgur.com/dhLXN9n.png",
+          "url": "http://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/index_1_av-p.m3u8",
+          "type": "stream",
+          "id": "entry-095c936156c59e8c1a6b9b2c",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_mexico.m3u8"
+        },
+        {
+          "name": "RCG 3 Saltillo",
+          "group": "Mexico",
+          "tvgId": "RCGTV3.mx",
+          "logo": "https://i.imgur.com/NefH5qZ.png",
+          "url": "http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8",
+          "type": "stream",
+          "id": "entry-2e0ef7234b233dd64b35f0fb",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_mexico.m3u8"
+        },
+        {
+          "name": "TeleFormula",
+          "group": "Mexico",
+          "tvgId": "TeleFormula.mx",
+          "logo": "https://i.imgur.com/jR6taXt.png",
+          "url": "https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8",
+          "type": "stream",
+          "id": "entry-d489191285e7f6b2ef8f6eba",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_mexico.m3u8"
+        },
+        {
+          "name": "NRT 4 Monclova",
+          "group": "Mexico",
+          "tvgId": "noticiasnrt.com",
+          "logo": "https://i.imgur.com/IudKE0n.png",
+          "url": "https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8",
+          "type": "stream",
+          "id": "entry-80fc6a628b65a8bbc059c8ba",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_mexico.m3u8"
+        },
+        {
+          "name": "Las Estrellas",
+          "group": "Mexico",
+          "tvgId": "Lasestrellas.tv",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/4/41/Las_Estrellas.svg",
+          "url": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8",
+          "type": "stream",
+          "id": "entry-ddc589b20b69d792acd42a83",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_mexico.m3u8"
+        },
+        {
+          "name": "ADN Noticias",
+          "group": "Mexico",
+          "tvgId": "ADNNoticias.mx",
+          "logo": "https://pbs.twimg.com/profile_images/1968512728059850752/KUWD445m_200x200.jpg",
+          "url": "https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8",
+          "type": "stream",
+          "id": "entry-b36f0678c5510405cc2faf9b",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_mexico.m3u8"
+        },
+        {
+          "name": "Canal 6 Multimedios",
+          "group": "Mexico",
+          "tvgId": "Canal6Multimedios.mx",
+          "logo": "https://graph.facebook.com/multimediostv/picture?width=200&height=200",
+          "url": "https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8",
+          "type": "stream",
+          "id": "entry-03ce2909109265a615df2afb",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_mexico.m3u8"
+        },
+        {
+          "name": "Canal Once",
+          "group": "Mexico",
+          "tvgId": "CanalOnce.mx",
+          "logo": "https://graph.facebook.com/CANALONCETV/picture?width=200&height=200",
+          "url": "https://vivo.canaloncelive.tv/secureoncedos/oncedigital/playlist.m3u8",
+          "type": "stream",
+          "id": "entry-da556289d046d2c69e61d9cc",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_mexico.m3u8"
+        },
+        {
+          "name": "Quiero TV",
+          "group": "Mexico",
+          "tvgId": "QuieroTV.mx",
+          "logo": "https://graph.facebook.com/quierotvGDL/picture?width=200&height=200",
+          "url": "https://stream.ontvmx.com/ontv/ghxTYEQmKkB2UJyVuW/playlist.m3u8",
+          "type": "stream",
+          "id": "entry-a955bce5ba2f11a58294e422",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_mexico.m3u8"
+        },
+        {
+          "name": "México Travel TV",
+          "group": "Mexico",
+          "tvgId": "MexicoTravelTV.mx",
+          "logo": "https://graph.facebook.com/MexicoTravelChannelTV/picture?width=200&height=200",
+          "url": "https://5ca9af4645e15.streamlock.net/mexicotravel/videomexicotravel/playlist.m3u8",
+          "type": "stream",
+          "id": "entry-e5d2a3f27e7577c96e88ee10",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_mexico.m3u8"
+        },
+        {
+          "name": "Estrella TV",
+          "group": "Mexico",
+          "tvgId": "EstrellaTV.mx",
+          "logo": "https://graph.facebook.com/EstrellaTV/picture?width=200&height=200",
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8",
+          "type": "stream",
+          "id": "entry-deccf2a889462236562c43ff",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_mexico.m3u8"
+        },
+        {
+          "name": "TELE 10 Nayarit",
+          "group": "Mexico",
+          "tvgId": "Tele10Nayarit.mx",
+          "logo": "https://graph.facebook.com/Tele10Nayarit/picture?width=200&height=200",
+          "url": "https://live.iplanay.gob.mx/hls/nayarittv.m3u8",
+          "type": "stream",
+          "id": "entry-cabc61fd85da9ee6df03ca8e",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_mexico.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "public-freetv-argentina",
+      "name": "Argentina · Free-TV",
+      "origin": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_argentina.m3u8",
+      "entries": [
+        {
+          "name": "TN Todo Noticias Ⓨ",
+          "group": "Argentina",
+          "tvgId": "TodoNoticias.ar",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/250px-TN_todo_noticias_logo.svg.png",
+          "url": "https://www.youtube.com/c/todonoticias/live",
+          "type": "web",
+          "id": "entry-b727fcb038bbb9934e93f90c",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_argentina.m3u8"
+        },
+        {
+          "name": "Encuentro Ⓨ Ⓖ",
+          "group": "Argentina",
+          "tvgId": "Encuentro.ar",
+          "logo": "https://i.imgur.com/IyP2UIx.png",
+          "url": "https://www.youtube.com/user/encuentro/live",
+          "type": "web",
+          "id": "entry-ab494bca0a74d7feae4238ea",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_argentina.m3u8"
+        },
+        {
+          "name": "Pakapaka Ⓨ Ⓖ",
+          "group": "Argentina",
+          "tvgId": "Pakapaka.ar",
+          "logo": "https://i.imgur.com/Q4zaCuM.png",
+          "url": "https://www.youtube.com/user/CanalPakapaka/live",
+          "type": "web",
+          "id": "entry-066f2ef0198b24b252c8403c",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_argentina.m3u8"
+        },
+        {
+          "name": "Aunar",
+          "group": "Argentina",
+          "tvgId": "Aunar.ar",
+          "logo": "http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/aunar.png",
+          "url": "https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8",
+          "type": "stream",
+          "id": "entry-cbb7a2c35c31625a97fa53b3",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_argentina.m3u8"
+        },
+        {
+          "name": "Cine.AR",
+          "group": "Argentina",
+          "tvgId": "CineAr.ar",
+          "logo": "https://i.imgur.com/RPLyrIC.png",
+          "url": "https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8",
+          "type": "stream",
+          "id": "entry-f0f69d9a1c40248e2f55a005",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_argentina.m3u8"
+        },
+        {
+          "name": "Tec TV",
+          "group": "Argentina",
+          "tvgId": "TECTV.ar",
+          "logo": "https://i.imgur.com/EGCq1wc.png",
+          "url": "https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8",
+          "type": "stream",
+          "id": "entry-a9188a08299205ebf0705ba2",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_argentina.m3u8"
+        },
+        {
+          "name": "Televisión Pública Ⓨ",
+          "group": "Argentina",
+          "tvgId": "TVPublica.ar",
+          "logo": "https://i.imgur.com/4hYYpiu.png",
+          "url": "https://www.youtube.com/user/TVPublicaArgentina/live",
+          "type": "web",
+          "id": "entry-5fe50db090fbb7202e31fff7",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_argentina.m3u8"
+        },
+        {
+          "name": "DeporTV",
+          "group": "Argentina",
+          "tvgId": "DeporTV.ar",
+          "logo": "https://i.imgur.com/iyYLNRt.png",
+          "url": "https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8",
+          "type": "stream",
+          "id": "entry-c2b8ffa29427c891fdd36ec4",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_argentina.m3u8"
+        },
+        {
+          "name": "Canal 26",
+          "group": "Argentina",
+          "tvgId": "Canal26.ar",
+          "logo": "https://i.imgur.com/5pAaVih.png",
+          "url": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8",
+          "type": "stream",
+          "id": "entry-8eabfd2d5aac8b6fadb24b87",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_argentina.m3u8"
+        },
+        {
+          "name": "Crónica TV Ⓨ",
+          "group": "Argentina",
+          "tvgId": "CronicaTV.ar",
+          "logo": "https://i.imgur.com/k2Ku8Ib.png",
+          "url": "https://www.youtube.com/c/cronicatv/live",
+          "type": "web",
+          "id": "entry-8e584af950052eeac91e7504",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_argentina.m3u8"
+        },
+        {
+          "name": "Argentina 12 Ⓨ",
+          "group": "Argentina",
+          "tvgId": "Argentina12.ar",
+          "logo": "https://i.imgur.com/atGKPhi.png",
+          "url": "https://www.youtube.com/c/IPNoticiasEnVivo/live",
+          "type": "web",
+          "id": "entry-d18c36fe6a772e0b0acff3bb",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_argentina.m3u8"
+        },
+        {
+          "name": "El Destape Ⓨ",
+          "group": "Argentina",
+          "tvgId": "ElDestape.ar",
+          "logo": "https://yt3.ggpht.com/a-/AAuE7mAuXDwiY8UPwtAHrGXTXkAxBjdRqws2MJIN2A=s900-mo-c-c0xffffffff-rj-k-no",
+          "url": "https://www.youtube.com/c/eldestapetv/live",
+          "type": "web",
+          "id": "entry-8a7b4fcab204f07466cc48a9",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_argentina.m3u8"
+        },
+        {
+          "name": "C5N Ⓨ",
+          "group": "Argentina",
+          "tvgId": "C5N.ar",
+          "logo": "https://i.imgur.com/E3pamA5.png",
+          "url": "https://www.youtube.com/c/c5n/live",
+          "type": "web",
+          "id": "entry-9b236c32abf28e824afab19d",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_argentina.m3u8"
+        },
+        {
+          "name": "LN+ Ⓨ",
+          "group": "Argentina",
+          "tvgId": "LaNacionPlus.ar",
+          "logo": "https://i.imgur.com/vJYzGt1.png",
+          "url": "https://www.youtube.com/c/LaNacionMas/live",
+          "type": "web",
+          "id": "entry-ee6d3a9bd2354391b9d1aa95",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_argentina.m3u8"
+        },
+        {
+          "name": "+Perfil",
+          "group": "Argentina",
+          "tvgId": "MasPerfil.ar",
+          "logo": "https://i.imgur.com/3wZdPwN.png",
+          "url": "https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8",
+          "type": "stream",
+          "id": "entry-7535b8e5cae32b1cea9282d0",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_argentina.m3u8"
+        },
+        {
+          "name": "Telemax",
+          "group": "Argentina",
+          "tvgId": "Telemax.ar",
+          "logo": "https://i.imgur.com/gfX0hdB.png",
+          "url": "https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8",
+          "type": "stream",
+          "id": "entry-5d9d43ed05e470e630499666",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_argentina.m3u8"
+        },
+        {
+          "name": "Net TV",
+          "group": "Argentina",
+          "tvgId": "NETTV.ar",
+          "logo": "https://i.imgur.com/EWmshtx.png",
+          "url": "https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8",
+          "type": "stream",
+          "id": "entry-ae7a504634e07e7623600479",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_argentina.m3u8"
+        },
+        {
+          "name": "TV Universidad",
+          "group": "Argentina",
+          "tvgId": "TVUniversidad.ar",
+          "logo": "https://i.imgur.com/tvLHiAT.png",
+          "url": "https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8",
+          "type": "stream",
+          "id": "entry-aeabae7c18562daf7375384d",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_argentina.m3u8"
+        },
+        {
+          "name": "Barricada TV",
+          "group": "Argentina",
+          "tvgId": "BarricadaTV.ar",
+          "logo": "https://www.barricadatv.org/?p=23082",
+          "url": "https://www.youtube.com/channel/UC6YundoLrEuBJaPp_oEPWaA/live",
+          "type": "web",
+          "id": "entry-240ef998e836f2ce138036c9",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_argentina.m3u8"
+        },
+        {
+          "name": "Urbana Tevé",
+          "group": "Argentina",
+          "tvgId": "UrbanaTeve.ar",
+          "logo": "https://yt3.ggpht.com/ytc/AKedOLQLeFMWMeoumi-o24ohLPXSEdNL5-oJ9W5oP5KnnA=s900-c-k-c0x00ffffff-no-rj",
+          "url": "https://www.youtube.com/channel/UCTnbbQUGmWEKeCq9wWoyN0g/live",
+          "type": "web",
+          "id": "entry-e336e72f53bb85b983052328",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_argentina.m3u8"
+        },
+        {
+          "name": "Comarca TV",
+          "group": "Argentina",
+          "tvgId": "ComarcaTV.ar",
+          "logo": "http://directostv.teleame.com/wp-content/uploads/2020/10/Comarca-TV-en-vivo-Online.png",
+          "url": "https://www.youtube.com/c/ComarcaTV/live",
+          "type": "web",
+          "id": "entry-405fffe5b5b3f433d71b9b62",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_argentina.m3u8"
+        },
+        {
+          "name": "El Trece",
+          "group": "Argentina",
+          "tvgId": "ElTrece.ar",
+          "logo": "https://i.imgur.com/ZK7AQFg.png",
+          "url": "https://livetrx01.vodgc.net/eltrecetv/index.m3u8",
+          "type": "stream",
+          "id": "entry-cfa28ca4fdae8f819b4989ea",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_argentina.m3u8"
+        },
+        {
+          "name": "El Nueve",
+          "group": "Argentina",
+          "tvgId": "ElNueve.ar",
+          "logo": "https://i.imgur.com/EtcVSm4.png",
+          "url": "http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-canal9.playlist.m3u8",
+          "type": "stream",
+          "id": "entry-09271de2142ff7eac9fb6f83",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_argentina.m3u8"
+        },
+        {
+          "name": "Telefe",
+          "group": "Argentina",
+          "tvgId": "Telefe.ar",
+          "logo": "https://i.imgur.com/wrZfMXn.png",
+          "url": "http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8",
+          "type": "stream",
+          "id": "entry-aac8b594913f3bf8cf2a3878",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_argentina.m3u8"
+        },
+        {
+          "name": "América",
+          "group": "Argentina",
+          "tvgId": "AmericaTV.ar",
+          "logo": "https://i.imgur.com/Jt7dOQm.png",
+          "url": "https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8",
+          "type": "stream",
+          "id": "entry-671ffb91d3939456f4619b48",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_argentina.m3u8"
+        },
+        {
+          "name": "A24 Ⓨ",
+          "group": "Argentina",
+          "tvgId": "A24.ar",
+          "logo": "https://i.imgur.com/OdhF7ym.png",
+          "url": "https://www.youtube.com/c/A24com/live",
+          "type": "web",
+          "id": "entry-850ca5231b1dc2b45d4d24fc",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_argentina.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "public-freetv-chile",
+      "name": "Chile · Free-TV",
+      "origin": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_chile.m3u8",
+      "entries": [
+        {
+          "name": "UCV Televisión",
+          "group": "Chile",
+          "tvgId": "UCVTV.cl",
+          "logo": "https://i.imgur.com/2VL4Pts.png",
+          "url": "https://unlimited1-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8",
+          "type": "stream",
+          "id": "entry-d0551ae35ad464d03806f7b1",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_chile.m3u8"
+        },
+        {
+          "name": "TV+",
+          "group": "Chile",
+          "tvgId": "TVPlus.cl",
+          "logo": "https://i.imgur.com/NtuZIEJ.png",
+          "url": "https://jireh-8-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8",
+          "type": "stream",
+          "id": "entry-607f1cff40e56c346810cd44",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_chile.m3u8"
+        },
+        {
+          "name": "UChile TV",
+          "group": "Chile",
+          "tvgId": "UChileTV.cl",
+          "logo": "https://i.imgur.com/mF2W8Uh.png",
+          "url": "https://unlimited1-us.dps.live/uchiletv/uchiletv.smil/playlist.m3u8",
+          "type": "stream",
+          "id": "entry-b86ddea987d3d1b77dea158a",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_chile.m3u8"
+        },
+        {
+          "name": "El Pingüino TV",
+          "group": "Chile",
+          "tvgId": "ElPinguinoTV.cl",
+          "logo": "https://i.imgur.com/ohXs2NV.png",
+          "url": "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/pinguinotv/pinguinotv.smil/playlist.m3u8",
+          "type": "stream",
+          "id": "entry-f51f1a7735a8a13996f019ac",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_chile.m3u8"
+        },
+        {
+          "name": "SoloTV",
+          "group": "Chile",
+          "tvgId": "SoloTV.cl",
+          "logo": "https://i.imgur.com/Ad2ueID.png",
+          "url": "https://stream.making.cl/memfs/ee909361-73e9-4e74-8391-5f1b0b8006c2.m3u8",
+          "type": "stream",
+          "id": "entry-8f725394ff58406a80e8aef8",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_chile.m3u8"
+        },
+        {
+          "name": "Bio Bio TV",
+          "group": "Chile",
+          "tvgId": "biobiochile.cl",
+          "logo": "https://i.imgur.com/wrRufts.png",
+          "url": "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8",
+          "type": "stream",
+          "id": "entry-49d708158187142bcf69d0da",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_chile.m3u8"
+        },
+        {
+          "name": "TVN Ⓖ",
+          "group": "Chile",
+          "tvgId": "TVN.cl",
+          "logo": "https://i.imgur.com/WoN1dai.png",
+          "url": "https://iptv2.intersurtv.cl/TVN/index.m3u8",
+          "type": "stream",
+          "id": "entry-8f1e16ff695624a45cc7f518",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_chile.m3u8"
+        },
+        {
+          "name": "24 horas",
+          "group": "Chile",
+          "tvgId": "24Horas.cl",
+          "logo": "https://i.imgur.com/0rF6Kub.png",
+          "url": "https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8",
+          "type": "stream",
+          "id": "entry-3ff4d20c2b795515b257fe65",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_chile.m3u8"
+        },
+        {
+          "name": "NTV Ⓖ",
+          "group": "Chile",
+          "tvgId": "NTV.cl",
+          "logo": "https://i.imgur.com/pt2Kj1A.png",
+          "url": "https://cdn1tlinkgo.tlink.cl/ntvhd/mono.m3u8",
+          "type": "stream",
+          "id": "entry-cbf0dc5ccc9d10aa185477c5",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_chile.m3u8"
+        },
+        {
+          "name": "TV Chile Ⓖ",
+          "group": "Chile",
+          "tvgId": "TVChile.cl",
+          "logo": "https://i.imgur.com/yCL888l.png",
+          "url": "https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8",
+          "type": "stream",
+          "id": "entry-cf8d7f16d46b69e4d255bc87",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_chile.m3u8"
+        },
+        {
+          "name": "TVN 3",
+          "group": "Chile",
+          "tvgId": "TVN3.cl",
+          "logo": "https://i.imgur.com/84lWqRi.png",
+          "url": "https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8",
+          "type": "stream",
+          "id": "entry-cc46dcca15ee1c62917db694",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_chile.m3u8"
+        },
+        {
+          "name": "Chilevisión Ⓖ",
+          "group": "Chile",
+          "tvgId": "ChileVision.cl",
+          "logo": "https://i.imgur.com/2Pu8yXf.png",
+          "url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8",
+          "type": "stream",
+          "id": "entry-bd20db90769ec4d849f1de1d",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_chile.m3u8"
+        },
+        {
+          "name": "Chilevisión Noticias",
+          "group": "Chile",
+          "tvgId": "CHVNoticias.cl",
+          "logo": "https://i.imgur.com/Qh6d0A9.png",
+          "url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8",
+          "type": "stream",
+          "id": "entry-7e18dc7df2ff36103ea5355c",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_chile.m3u8"
+        },
+        {
+          "name": "Chilevisión Deportes Ⓖ",
+          "group": "Chile",
+          "tvgId": "ChileVision.cl",
+          "logo": "https://i.imgur.com/eWCXl6a.jpeg",
+          "url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvdeportes/chvdeportes.smil/playlist.m3u8",
+          "type": "stream",
+          "id": "entry-93412974b15ad81fb0d80506",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_chile.m3u8"
+        },
+        {
+          "name": "Canal 13",
+          "group": "Chile",
+          "tvgId": "Canal13.cl",
+          "logo": "https://i.imgur.com/JIo1HBs.png",
+          "url": "https://redirector.dps.live/hls/13cl/playlist.m3u8",
+          "type": "stream",
+          "id": "entry-9798f8d2a7336bb4b97600c7",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_chile.m3u8"
+        },
+        {
+          "name": "T13 en vivo",
+          "group": "Chile",
+          "tvgId": "T13.cl",
+          "logo": "https://i.imgur.com/3CEijac.png",
+          "url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8",
+          "type": "stream",
+          "id": "entry-d82f61c337225b78d99518d2",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_chile.m3u8"
+        },
+        {
+          "name": "13 Entretención",
+          "group": "Chile",
+          "tvgId": "13E.cl",
+          "logo": "https://i.imgur.com/1vTno0m.png",
+          "url": "https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8",
+          "type": "stream",
+          "id": "entry-35dfb108d942391d1070f9d5",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_chile.m3u8"
+        },
+        {
+          "name": "13 Cultura",
+          "group": "Chile",
+          "tvgId": "13C.cl",
+          "logo": "https://i.imgur.com/49QkKWv.png",
+          "url": "https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8",
+          "type": "stream",
+          "id": "entry-41ee9786c5850af9c4d51494",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_chile.m3u8"
+        },
+        {
+          "name": "13 Prime",
+          "group": "Chile",
+          "tvgId": "13P.cl",
+          "logo": "https://i.imgur.com/YwDFNxs.png",
+          "url": "https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8",
+          "type": "stream",
+          "id": "entry-86bc8a64039510f4bfd2d508",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_chile.m3u8"
+        },
+        {
+          "name": "13 Kids",
+          "group": "Chile",
+          "tvgId": "13Kids.cl",
+          "logo": "https://i.imgur.com/m6y9AMe.png",
+          "url": "https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8",
+          "type": "stream",
+          "id": "entry-67304b65c1786bccd2a032c6",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_chile.m3u8"
+        },
+        {
+          "name": "13 Realities",
+          "group": "Chile",
+          "tvgId": "13Realities.cl",
+          "logo": "https://i.imgur.com/p1Qpljw.png",
+          "url": "https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8",
+          "type": "stream",
+          "id": "entry-521b7560bc20fc3df3211d29",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_chile.m3u8"
+        },
+        {
+          "name": "13 Teleseries",
+          "group": "Chile",
+          "tvgId": "13T.cl",
+          "logo": "https://i.imgur.com/aJMBnse.png",
+          "url": "https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8",
+          "type": "stream",
+          "id": "entry-46b294d1dfd743bd37f4a1dc",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_chile.m3u8"
+        },
+        {
+          "name": "Deportes13 Ⓖ",
+          "group": "Chile",
+          "tvgId": "D13.cl",
+          "logo": "https://i.imgur.com/GRpxoPf.png",
+          "url": "https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.m3u8",
+          "type": "stream",
+          "id": "entry-6896aa7d28b633ded6efd08c",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_chile.m3u8"
+        },
+        {
+          "name": "Mega",
+          "group": "Chile",
+          "tvgId": "Mega.cl",
+          "logo": "https://i.imgur.com/CYdWSDb.png",
+          "url": "https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8",
+          "type": "stream",
+          "id": "entry-3dfe2a4566fdd3842b08f4d3",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_chile.m3u8"
+        },
+        {
+          "name": "Mega 2",
+          "group": "Chile",
+          "tvgId": "Mega2.cl",
+          "logo": "https://i.imgur.com/c1ME00r.png",
+          "url": "http://15.204.196.147:22880/MEGA2-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8",
+          "type": "stream",
+          "id": "entry-abf40142e3895c2b3b931c11",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_chile.m3u8"
+        },
+        {
+          "name": "Meganoticias",
+          "group": "Chile",
+          "tvgId": "MeganoticiasAhora.cl",
+          "logo": "https://i.imgur.com/JCVEqTc.png",
+          "url": "http://15.204.196.147:22880/MEGANOTICIA-MEGAMEDIA-EE.UU-PROVEEDOR/video.m3u8",
+          "type": "stream",
+          "id": "entry-2e2e42ce026f3d613e69ab6b",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_chile.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "public-freetv-costa_rica",
+      "name": "Costa Rica · Free-TV",
+      "origin": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_costa_rica.m3u8",
+      "entries": [
+        {
+          "name": "Canal 1",
+          "group": "Costa Rica",
+          "tvgId": "Canal1.cr",
+          "logo": "https://cloudfront-us-east-1.images.arcpublishing.com/gruponacion/2XI5OC6MQZFXXBDGMRRDOZSL2Q.jpg",
+          "url": "https://vid.canal1cr.com:3424/multi_live/play_720.m3u8",
+          "type": "stream",
+          "id": "entry-bdc9a52a403490e29b6441b4",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_costa_rica.m3u8"
+        },
+        {
+          "name": "Canal 2 CDR",
+          "group": "Costa Rica",
+          "tvgId": "Canal2.cr",
+          "logo": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Canal-2-Costa-Rica-en-vivo-Online.png",
+          "url": "https://d3bgcstab9qhdz.cloudfront.net/hls/canal2.m3u8",
+          "type": "stream",
+          "id": "entry-2bc533f2e1138c3c9c1e10f8",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_costa_rica.m3u8"
+        },
+        {
+          "name": "Canal 4",
+          "group": "Costa Rica",
+          "tvgId": "Canal4.cr",
+          "logo": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Canal-4-Costa-Rica-en-vivo-Online.png",
+          "url": "https://d3bgcstab9qhdz.cloudfront.net/hls/canal2.m3u8",
+          "type": "stream",
+          "id": "entry-25bd716fbf714cd162313804",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_costa_rica.m3u8"
+        },
+        {
+          "name": "Canal 6",
+          "group": "Costa Rica",
+          "tvgId": "Canal6.cr",
+          "logo": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Canal-6-Costa-Rica-en-vivo-Online.png",
+          "url": "https://d3bgcstab9qhdz.cloudfront.net/hls/canal2.m3u8",
+          "type": "stream",
+          "id": "entry-b399daf0fbbeb32a8d832867",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_costa_rica.m3u8"
+        },
+        {
+          "name": "Canal 8",
+          "group": "Costa Rica",
+          "tvgId": "Canal8.cr",
+          "logo": "https://platform-static.cdn.mdstrm.com/player/logo/5efe501c21d05a0722152f6d.png",
+          "url": "http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8",
+          "type": "stream",
+          "id": "entry-124d36b7b4fa8141266e8dc5",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_costa_rica.m3u8"
+        },
+        {
+          "name": "Canal 11",
+          "group": "Costa Rica",
+          "tvgId": "Canal11.cr",
+          "logo": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Canal-11-Costa-Rica-en-vivo-Online.png",
+          "url": "https://d3bgcstab9qhdz.cloudfront.net/hls/canal2.m3u8",
+          "type": "stream",
+          "id": "entry-572dde31320434e86a15ecb8",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_costa_rica.m3u8"
+        },
+        {
+          "name": "88 Stereo",
+          "group": "Costa Rica",
+          "tvgId": "88stereo.cr",
+          "logo": "http://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png",
+          "url": "http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8",
+          "type": "stream",
+          "id": "entry-1dd290064d554171a8caafaa",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_costa_rica.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "public-freetv-peru",
+      "name": "Perú · Free-TV",
+      "origin": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_peru.m3u8",
+      "entries": [
+        {
+          "name": "Panamericana TV",
+          "group": "Peru",
+          "tvgId": "PanamericanaTV.pe",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/2/26/Panamericana_tv_2009.png",
+          "url": "http://45.171.108.253:8888/PANAMERICANA/index.m3u8",
+          "type": "stream",
+          "id": "entry-537dbbaae3d71a2f964c001c",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_peru.m3u8"
+        },
+        {
+          "name": "ATV+ Noticias",
+          "group": "Peru",
+          "tvgId": "ATVPlus.pe",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Atv_noticias_logo.png",
+          "url": "http://45.171.108.253:8888/ATV/index.m3u8",
+          "type": "stream",
+          "id": "entry-68488f21e4547db5cccca73b",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_peru.m3u8"
+        },
+        {
+          "name": "ATV+ Noticias Ⓨ",
+          "group": "Peru",
+          "tvgId": "ATVPlus.pe",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Atv_noticias_logo.png",
+          "url": "https://www.youtube.com/c/ATVNoticiasOficial/live",
+          "type": "web",
+          "id": "entry-9cbfac4497ae0f5a9f912a21",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_peru.m3u8"
+        },
+        {
+          "name": "Exitosa (ex-Karibeña)",
+          "group": "Peru",
+          "tvgId": "Exitosa.pe",
+          "logo": "https://i.pinimg.com/280x280_RS/11/85/b6/1185b667fe3f80d7072359d7ce7ce52d.jpg",
+          "url": "http://187.102.210.46/KARIBENA/index.m3u8",
+          "type": "stream",
+          "id": "entry-4007ddb914a26a345da81a0a",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_peru.m3u8"
+        },
+        {
+          "name": "Exitosa (ex-Karibeña)",
+          "group": "Peru",
+          "tvgId": "Exitosa.pe",
+          "logo": "https://i.pinimg.com/280x280_RS/11/85/b6/1185b667fe3f80d7072359d7ce7ce52d.jpg",
+          "url": "http://190.93.224.42/EXITOSA/index.m3u8",
+          "type": "stream",
+          "id": "entry-835141889e857a1561452beb",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_peru.m3u8"
+        },
+        {
+          "name": "Latina",
+          "group": "Peru",
+          "tvgId": "Latina.pe",
+          "logo": "https://graph.facebook.com/Latina.pe/picture?width=200&height=200",
+          "url": "https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8",
+          "type": "stream",
+          "id": "entry-eb6a09a9bf6daf5ffc34d963",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_peru.m3u8"
+        },
+        {
+          "name": "Cosmos TV",
+          "group": "Peru",
+          "tvgId": "CosmosTV.pe",
+          "logo": "https://pbs.twimg.com/profile_images/1904206504753811457/66CbqvH1_200x200.jpg",
+          "url": "https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8",
+          "type": "stream",
+          "id": "entry-bd8b61396dd8911e33ed5bb3",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_peru.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "public-freetv-dominican_republic",
+      "name": "República Dominicana · Free-TV",
+      "origin": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_dominican_republic.m3u8",
+      "entries": [
+        {
+          "name": "Canal RTVD 4",
+          "group": "Dominican Republic",
+          "tvgId": "Canal4RD.do",
+          "logo": "https://static.wikia.nocookie.net/logopedia/images/4/4e/CERTV_4_2015.png",
+          "url": "https://cdn.protvradiostream.com/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8",
+          "type": "stream",
+          "id": "entry-98aab9d6aa93fda2741d29a2",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_dominican_republic.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "public-freetv-zz_movies",
+      "name": "Cine · Inglés · Free-TV",
+      "origin": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_zz_movies.m3u8",
+      "entries": [
+        {
+          "name": "FilmRise Movies",
+          "group": "VOD Movies (EN)",
+          "tvgId": "FilmRiseFreeMovies.us",
+          "logo": "https://i.imgur.com/jGzMaRD.png",
+          "url": "http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8",
+          "type": "stream",
+          "id": "entry-849590294c1e0252e58785ff",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_zz_movies.m3u8"
+        },
+        {
+          "name": "FilmRise Sci-Fi",
+          "group": "VOD Movies (EN)",
+          "tvgId": "FilmRiseSciFi.us",
+          "logo": "https://i.imgur.com/FcN1OKo.png",
+          "url": "http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8",
+          "type": "stream",
+          "id": "entry-ecbda0ccf3709162d7111e66",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_zz_movies.m3u8"
+        },
+        {
+          "name": "Pluto TV Spotlight",
+          "group": "VOD Movies (EN)",
+          "tvgId": null,
+          "logo": "https://i.imgur.com/AogTmZc.png",
+          "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=51&deviceId=5ba3fb9c4b078e0f37ad34e8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+          "type": "stream",
+          "id": "entry-e87db77d933ef6dd8982fd29",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_zz_movies.m3u8"
+        },
+        {
+          "name": "Pluto TV Action",
+          "group": "VOD Movies (EN)",
+          "tvgId": null,
+          "logo": "https://i.imgur.com/g8PCdh6.png",
+          "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=54&deviceId=561d7d484dc7c8770484914a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+          "type": "stream",
+          "id": "entry-1cbb8da496326833ea4c3699",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_zz_movies.m3u8"
+        },
+        {
+          "name": "Pluto TV Comedy",
+          "group": "VOD Movies (EN)",
+          "tvgId": null,
+          "logo": "https://i.imgur.com/Pjs4lgs.png",
+          "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=57&deviceId=5a4d3a00ad95e4718ae8d8db&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+          "type": "stream",
+          "id": "entry-b291318a50bc787212b718e5",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_zz_movies.m3u8"
+        },
+        {
+          "name": "Pluto TV Drama",
+          "group": "VOD Movies (EN)",
+          "tvgId": null,
+          "logo": "https://i.imgur.com/B9srooj.png",
+          "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=60&deviceId=5b4e92e4694c027be6ecece1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+          "type": "stream",
+          "id": "entry-0cfbe12d99adaa05f6204159",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_zz_movies.m3u8"
+        },
+        {
+          "name": "Pluto TV Fantastic",
+          "group": "VOD Movies (EN)",
+          "tvgId": null,
+          "logo": "https://i.imgur.com/dOfXc5w.png",
+          "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=66&deviceId=5b64a245a202b3337f09e51d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+          "type": "stream",
+          "id": "entry-7620a75369407c7de7339428",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_zz_movies.m3u8"
+        },
+        {
+          "name": "Pluto TV Romance",
+          "group": "VOD Movies (EN)",
+          "tvgId": null,
+          "logo": "https://i.imgur.com/j6livg0.png",
+          "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=70&deviceId=5a66795ef91fef2c7031c599&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+          "type": "stream",
+          "id": "entry-1e0a29c495a1c78129f608ce",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_zz_movies.m3u8"
+        },
+        {
+          "name": "Pluto TV Crime Movies",
+          "group": "VOD Movies (EN)",
+          "tvgId": null,
+          "logo": "https://i.imgur.com/PlAQrIb.png",
+          "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=73&deviceId=5f4d8594eb979c0007706de7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+          "type": "stream",
+          "id": "entry-b3a17593eccea6e8943ccdc9",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_zz_movies.m3u8"
+        },
+        {
+          "name": "Pluto TV Thrillers",
+          "group": "VOD Movies (EN)",
+          "tvgId": null,
+          "logo": "https://i.imgur.com/jyiFzG4.png",
+          "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=74&deviceId=5b4e69e08291147bd04a9fd7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+          "type": "stream",
+          "id": "entry-2cb72dc56af310b9bc877b19",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_zz_movies.m3u8"
+        },
+        {
+          "name": "Pluto TV Horror",
+          "group": "VOD Movies (EN)",
+          "tvgId": null,
+          "logo": "https://i.imgur.com/An93hAh.png",
+          "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=75&deviceId=569546031a619b8f07ce6e25&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+          "type": "stream",
+          "id": "entry-f7ad05678509f8d661071fa0",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_zz_movies.m3u8"
+        },
+        {
+          "name": "Pluto TV Terror",
+          "group": "VOD Movies (EN)",
+          "tvgId": null,
+          "logo": "https://i.imgur.com/JLgn5jC.png",
+          "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=76&deviceId=5c6dc88fcd232425a6e0f06e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+          "type": "stream",
+          "id": "entry-60737282bb4953c381e2357b",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_zz_movies.m3u8"
+        },
+        {
+          "name": "Black Cinema",
+          "group": "VOD Movies (EN)",
+          "tvgId": null,
+          "logo": "https://i.imgur.com/Zh1QGW9.png",
+          "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=80&deviceId=58af4c093a41ca9d4ecabe96&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+          "type": "stream",
+          "id": "entry-d85f7379dbc934e6fd76c8f4",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_zz_movies.m3u8"
+        },
+        {
+          "name": "Pluto TV Staff Picks",
+          "group": "VOD Movies (EN)",
+          "tvgId": null,
+          "logo": "https://i.imgur.com/DFDHAT8.png",
+          "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d863b98b41000076cd061/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=90&deviceId=5f4d863b98b41000076cd061&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+          "type": "stream",
+          "id": "entry-593c673b320a7abc3fb5590f",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_zz_movies.m3u8"
+        },
+        {
+          "name": "Pluto TV Documentaries",
+          "group": "VOD Movies (EN)",
+          "tvgId": null,
+          "logo": "https://i.imgur.com/Mr4ZsNZ.png",
+          "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b85a7582921777994caea63/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=91&deviceId=5b85a7582921777994caea63&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+          "type": "stream",
+          "id": "entry-af41c05b631e1856818a9c8f",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_zz_movies.m3u8"
+        },
+        {
+          "name": "90s Throwback",
+          "group": "VOD Movies (EN)",
+          "tvgId": null,
+          "logo": "https://i.imgur.com/sI1o3uK.png",
+          "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d86f519358a00072b978e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=94&deviceId=5f4d86f519358a00072b978e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+          "type": "stream",
+          "id": "entry-90a59f497a86afd0676c934e",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_zz_movies.m3u8"
+        },
+        {
+          "name": "80s Rewind",
+          "group": "VOD Movies (EN)",
+          "tvgId": null,
+          "logo": "https://i.imgur.com/0FaLAhK.png",
+          "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca525b650be2571e3943c63/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=95&deviceId=5ca525b650be2571e3943c63&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+          "type": "stream",
+          "id": "entry-e866120d293d562903b5df0e",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_zz_movies.m3u8"
+        },
+        {
+          "name": "70s Cinema",
+          "group": "VOD Movies (EN)",
+          "tvgId": null,
+          "logo": "https://i.imgur.com/wk9Baz9.png",
+          "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=96&deviceId=5f4d878d3d19b30007d2e782&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+          "type": "stream",
+          "id": "entry-a593caaad2454d418b0e7ada",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_zz_movies.m3u8"
+        },
+        {
+          "name": "Paramount Movie Channel",
+          "group": "VOD Movies (EN)",
+          "tvgId": null,
+          "logo": "https://i.imgur.com/CfqRav0.png",
+          "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=100&deviceId=5cb0cae7a461406ffe3f5213&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+          "type": "stream",
+          "id": "entry-816b49bc6a398f890ae03283",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_zz_movies.m3u8"
+        },
+        {
+          "name": "Pluto TV Westerns",
+          "group": "VOD Movies (EN)",
+          "tvgId": null,
+          "logo": "https://i.imgur.com/79R7m0b.png",
+          "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=103&deviceId=5b4e94282d4ec87bdcbb87cd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+          "type": "stream",
+          "id": "entry-c41a24c4549e1facd132cd15",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_zz_movies.m3u8"
+        },
+        {
+          "name": "Classic Movies",
+          "group": "VOD Movies (EN)",
+          "tvgId": null,
+          "logo": "https://i.imgur.com/feWPHep.png",
+          "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=106&deviceId=561c5b0dada51f8004c4d855&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+          "type": "stream",
+          "id": "entry-a5cb69049674f5b6427cd147",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_zz_movies.m3u8"
+        },
+        {
+          "name": "Pluto TV Cult Films",
+          "group": "VOD Movies (EN)",
+          "tvgId": null,
+          "logo": "https://i.imgur.com/kD3SkoC.png",
+          "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=109&deviceId=5c665db3e6c01b72c4977bc2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+          "type": "stream",
+          "id": "entry-b3fcc47edfbbbaa9592d703a",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_zz_movies.m3u8"
+        },
+        {
+          "name": "Flicks of Fury",
+          "group": "VOD Movies (EN)",
+          "tvgId": null,
+          "logo": "https://i.imgur.com/yhyzBfb.png",
+          "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=112&deviceId=58e55b14ad8e9c364d55f717&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+          "type": "stream",
+          "id": "entry-c6176b06a4508ff4a9038d2d",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_zz_movies.m3u8"
+        },
+        {
+          "name": "The Asylum",
+          "group": "VOD Movies (EN)",
+          "tvgId": null,
+          "logo": "https://i.imgur.com/rOxQfdG.png",
+          "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/591105034c1806b47438342c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=115&deviceId=591105034c1806b47438342c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+          "type": "stream",
+          "id": "entry-e4a9391edba2e2e1864001d0",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_zz_movies.m3u8"
+        },
+        {
+          "name": "Film Detective",
+          "group": "VOD Movies (EN)",
+          "tvgId": null,
+          "logo": "https://i.imgur.com/4aFLH9g.png",
+          "url": "https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8",
+          "type": "stream",
+          "id": "entry-bae743bec40f46f2bd92ff43",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_zz_movies.m3u8"
+        },
+        {
+          "name": "Action Hollywood Movies",
+          "group": "VOD Movies (EN)",
+          "tvgId": null,
+          "logo": null,
+          "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8",
+          "type": "stream",
+          "id": "entry-10933443bb58d43a44566012",
+          "language": "no verificado",
+          "provenance": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_zz_movies.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "public-iptvorg-pluto-movies",
+      "name": "Cine · LatAm y España · Pluto · IPTV-org",
+      "origin": "https://iptv-org.github.io/iptv/categories/movies.m3u",
+      "entries": [
+        {
+          "name": "Cine Terror LatAm",
+          "group": "Movies",
+          "tvgId": "CineTerror.us@LatAm",
+          "logo": "https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png",
+          "url": "https://jmp2.uk/plu-5dcddf1ed95e740009fef7ab.m3u8",
+          "type": "stream",
+          "id": "entry-bec86e2a9c9f2844ee09f5f5",
+          "language": "no verificado",
+          "provenance": "https://iptv-org.github.io/iptv/categories/movies.m3u"
+        },
+        {
+          "name": "Pluto TV A La Mexicana",
+          "group": "Movies",
+          "tvgId": "PlutoTVALaMexicana.us@LatAm",
+          "logo": "https://images.pluto.tv/channels/5dfcde52d28b09000a42d7a2/colorLogoPNG.png",
+          "url": "https://jmp2.uk/plu-5dfcde52d28b09000a42d7a2.m3u8",
+          "type": "stream",
+          "id": "entry-4940b49d85b59e0d48fd4271",
+          "language": "no verificado",
+          "provenance": "https://iptv-org.github.io/iptv/categories/movies.m3u"
+        },
+        {
+          "name": "Pluto TV Cine Accion",
+          "group": "Movies",
+          "tvgId": "PlutoTVCineAccion.us@LatAm",
+          "logo": "https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG_1760378798093.png",
+          "url": "https://jmp2.uk/plu-5dcb62e63d4d8f0009f36881.m3u8",
+          "type": "stream",
+          "id": "entry-cc6ac978aacacc1d1f4ee08e",
+          "language": "no verificado",
+          "provenance": "https://iptv-org.github.io/iptv/categories/movies.m3u"
+        },
+        {
+          "name": "Pluto TV Cine Clasico",
+          "group": "Movies",
+          "tvgId": "PlutoTVCineClasico.us@LatAm",
+          "logo": "https://images.pluto.tv/channels/609059dc63be6e0007b4eca6/colorLogoPNG.png",
+          "url": "https://jmp2.uk/plu-609059dc63be6e0007b4eca6.m3u8",
+          "type": "stream",
+          "id": "entry-4b4ef961c7f31d385e54643d",
+          "language": "no verificado",
+          "provenance": "https://iptv-org.github.io/iptv/categories/movies.m3u"
+        },
+        {
+          "name": "Pluto TV Cine Comedia (United States) LatAm",
+          "group": "Movies",
+          "tvgId": "PlutoTVCineComedia.us@LatAm",
+          "logo": "https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG_1732662798298.png",
+          "url": "https://jmp2.uk/plu-5dcdde78f080d900098550e4.m3u8",
+          "type": "stream",
+          "id": "entry-fcf00909c0741c2c95c59370",
+          "language": "no verificado",
+          "provenance": "https://iptv-org.github.io/iptv/categories/movies.m3u"
+        },
+        {
+          "name": "Pluto TV Cine Crimen",
+          "group": "Movies",
+          "tvgId": "PlutoTVCineCrimen.us@LatAm",
+          "logo": "https://images.pluto.tv/channels/624af40c004f8000079b784d/colorLogoPNG.png",
+          "url": "https://jmp2.uk/plu-624af40c004f8000079b784d.m3u8",
+          "type": "stream",
+          "id": "entry-efc20f2772a56970ea6de55b",
+          "language": "no verificado",
+          "provenance": "https://iptv-org.github.io/iptv/categories/movies.m3u"
+        },
+        {
+          "name": "Pluto TV Cine Drama LatAm",
+          "group": "Movies",
+          "tvgId": "PlutoTVCineDrama.us@LatAm",
+          "logo": "https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png",
+          "url": "https://jmp2.uk/plu-5dcddfcb229eff00091b6bdf.m3u8",
+          "type": "stream",
+          "id": "entry-c9640fc8a9fb8467b4623d3f",
+          "language": "no verificado",
+          "provenance": "https://iptv-org.github.io/iptv/categories/movies.m3u"
+        },
+        {
+          "name": "Pluto TV Cine Estelar",
+          "group": "Movies",
+          "tvgId": "PlutoTVCineEstelar.us@LatAm",
+          "logo": "https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG_1769014514491.png",
+          "url": "https://jmp2.uk/plu-5dcde437229eff00091b6c30.m3u8",
+          "type": "stream",
+          "id": "entry-e7c4fd4b565bef9a4d92f7db",
+          "language": "no verificado",
+          "provenance": "https://iptv-org.github.io/iptv/categories/movies.m3u"
+        },
+        {
+          "name": "Pluto TV Cine Familia LatAm",
+          "group": "Movies",
+          "tvgId": "PlutoTVCineFamilia.us@LatAm",
+          "logo": "https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG_1732045254120.png",
+          "url": "https://jmp2.uk/plu-5dd6ddb30a1d8a000908ed4c.m3u8",
+          "type": "stream",
+          "id": "entry-d417c385dc8923977cafdfd6",
+          "language": "no verificado",
+          "provenance": "https://iptv-org.github.io/iptv/categories/movies.m3u"
+        },
+        {
+          "name": "Pluto TV Cine Inspirador",
+          "group": "Movies",
+          "tvgId": "PlutoTVCineInspirador.us@LatAm",
+          "logo": "https://images.pluto.tv/channels/6806d519fea7414f33f57016/colorLogoPNG_1746817663597.png",
+          "url": "https://jmp2.uk/plu-6806d519fea7414f33f57016.m3u8",
+          "type": "stream",
+          "id": "entry-59b1f3b7d78584312dffecc8",
+          "language": "no verificado",
+          "provenance": "https://iptv-org.github.io/iptv/categories/movies.m3u"
+        },
+        {
+          "name": "Pluto TV Cine Romance LatAm",
+          "group": "Movies",
+          "tvgId": "PlutoTVCineRomance.us@LatAm",
+          "logo": "https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG_1771344977802.png",
+          "url": "https://jmp2.uk/plu-5dd7ea2aeab5230009986735.m3u8",
+          "type": "stream",
+          "id": "entry-1d0bcbbd17152e9207fc53e1",
+          "language": "no verificado",
+          "provenance": "https://iptv-org.github.io/iptv/categories/movies.m3u"
+        },
+        {
+          "name": "Pluto TV Cine Suspenso",
+          "group": "Movies",
+          "tvgId": "PlutoTVCineSuspenso.us@LatAm",
+          "logo": "https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/colorLogoPNG.png",
+          "url": "https://jmp2.uk/plu-5ddc4e8bcbb9010009b4e84f.m3u8",
+          "type": "stream",
+          "id": "entry-b39d8fe13a3bdcb4d3e49c36",
+          "language": "no verificado",
+          "provenance": "https://iptv-org.github.io/iptv/categories/movies.m3u"
+        },
+        {
+          "name": "Pluto TV Nuestro Cine",
+          "group": "Movies",
+          "tvgId": "PlutoTVNuestroCine.us@LatAm",
+          "logo": "https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/colorLogoPNG.png",
+          "url": "https://jmp2.uk/plu-5defde6d6c07b50009cf0757.m3u8",
+          "type": "stream",
+          "id": "entry-3bc9d3940ad40fcf1fbc3b02",
+          "language": "no verificado",
+          "provenance": "https://iptv-org.github.io/iptv/categories/movies.m3u"
+        },
+        {
+          "name": "Pluto TV Sci-Fi (United States) LatAm",
+          "group": "Movies;Series",
+          "tvgId": "PlutoTVSciFi.us@LatAm",
+          "logo": "https://images.pluto.tv/channels/66166cb1307fa30008f275e7/colorLogoPNG.png",
+          "url": "https://jmp2.uk/plu-5f2817d3d7573a00080f9175.m3u8",
+          "type": "stream",
+          "id": "entry-cf3db343426ea103afb0dc58",
+          "language": "no verificado",
+          "provenance": "https://iptv-org.github.io/iptv/categories/movies.m3u"
+        }
+      ]
+    },
+    {
+      "id": "public-iptvorg-pluto-series",
+      "name": "Series · LatAm y España · Pluto · IPTV-org",
+      "origin": "https://iptv-org.github.io/iptv/categories/series.m3u",
+      "entries": [
+        {
+          "name": "Acapulco Shore",
+          "group": "Series",
+          "tvgId": "AcapulcoShore.us@LatAm",
+          "logo": "https://images.pluto.tv/channels/61a52615cbef2500072876e2/colorLogoPNG_1756972226445.png",
+          "url": "https://jmp2.uk/plu-61a52615cbef2500072876e2.m3u8",
+          "type": "stream",
+          "id": "entry-6f9b0f675c21512e26365245",
+          "language": "no verificado",
+          "provenance": "https://iptv-org.github.io/iptv/categories/series.m3u"
+        },
+        {
+          "name": "CSI: Miami LatAm",
+          "group": "Series",
+          "tvgId": "CSIMiami.us@LatAm",
+          "logo": "https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png",
+          "url": "https://jmp2.uk/plu-63eb9255c111bc0008fe6ec4.m3u8",
+          "type": "stream",
+          "id": "entry-d535fcd14f6deff1d7674813",
+          "language": "no verificado",
+          "provenance": "https://iptv-org.github.io/iptv/categories/series.m3u"
+        },
+        {
+          "name": "iCarly (United States) LatAm",
+          "group": "Series",
+          "tvgId": "iCarly.us@LatAm",
+          "logo": "https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png",
+          "url": "https://jmp2.uk/plu-620ff0a01f9e8700076c6f9d.m3u8",
+          "type": "stream",
+          "id": "entry-538050fa57f0768b76b5ce8a",
+          "language": "no verificado",
+          "provenance": "https://iptv-org.github.io/iptv/categories/series.m3u"
+        },
+        {
+          "name": "Investiga",
+          "group": "Series",
+          "tvgId": "Investiga.us@LatAm",
+          "logo": "https://images.pluto.tv/channels/5cf96b8f4f1ca3f0629f4bf1/colorLogoPNG.png",
+          "url": "https://jmp2.uk/plu-5dcde27ffae9520009c0c75a.m3u8",
+          "type": "stream",
+          "id": "entry-10b0daa0c19aee6a897da632",
+          "language": "no verificado",
+          "provenance": "https://iptv-org.github.io/iptv/categories/series.m3u"
+        },
+        {
+          "name": "Kenan & Kel",
+          "group": "Series",
+          "tvgId": "KenanKel.us@LatAm",
+          "logo": "https://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/colorLogoPNG.png",
+          "url": "https://jmp2.uk/plu-5fcea93ffcf94500071c4b2f.m3u8",
+          "type": "stream",
+          "id": "entry-6c0151166de97815fb4b6cfb",
+          "language": "no verificado",
+          "provenance": "https://iptv-org.github.io/iptv/categories/series.m3u"
+        },
+        {
+          "name": "MTV Dating (United States) LatAm (720p)",
+          "group": "Series",
+          "tvgId": "MTVDating.us@LatAm",
+          "logo": "https://images.pluto.tv/channels/6851bb3426beced4f2f67ee6/colorLogoPNG_1750686926779.png",
+          "url": "https://jmp2.uk/plu-6851b909954170e0128bc71d.m3u8",
+          "type": "stream",
+          "id": "entry-eb91858d36061779c0528b70",
+          "language": "no verificado",
+          "provenance": "https://iptv-org.github.io/iptv/categories/series.m3u"
+        },
+        {
+          "name": "MTV Teen Mom (United States) (720p)",
+          "group": "Series",
+          "tvgId": "MTVTeenMom.us@LatAm",
+          "logo": "https://images.pluto.tv/channels/620fd9f4afb9a80007a9c6d5/colorLogoPNG.png",
+          "url": "https://jmp2.uk/plu-620fd9f4afb9a80007a9c6d5.m3u8",
+          "type": "stream",
+          "id": "entry-2663eba79092bd790ae7e1bd",
+          "language": "no verificado",
+          "provenance": "https://iptv-org.github.io/iptv/categories/series.m3u"
+        },
+        {
+          "name": "NCIS (United States) LatAm",
+          "group": "Series",
+          "tvgId": "NCIS.us@LatAm",
+          "logo": "https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png",
+          "url": "https://jmp2.uk/plu-63eb947c4e83e70008ab877b.m3u8",
+          "type": "stream",
+          "id": "entry-a5a9cce4b2d8cb2a3da52347",
+          "language": "no verificado",
+          "provenance": "https://iptv-org.github.io/iptv/categories/series.m3u"
+        },
+        {
+          "name": "Numeros",
+          "group": "Series",
+          "tvgId": "Numeros.us@LatAm",
+          "logo": "https://images.pluto.tv/channels/67f960680072d6b187a0682e/colorLogoPNG_1747415112008.png",
+          "url": "https://jmp2.uk/plu-67f960680072d6b187a0682e.m3u8",
+          "type": "stream",
+          "id": "entry-f5d897841c216a5b316c3fce",
+          "language": "no verificado",
+          "provenance": "https://iptv-org.github.io/iptv/categories/series.m3u"
+        },
+        {
+          "name": "Pluto TV Aventura",
+          "group": "Series",
+          "tvgId": "PlutoTVAventura.us@LatAm",
+          "logo": "https://images.pluto.tv/channels/5ddc266f80e3550009136843/colorLogoPNG.png",
+          "url": "https://jmp2.uk/plu-5ddc266f80e3550009136843.m3u8",
+          "type": "stream",
+          "id": "entry-0f191e3f325e7c61c321144e",
+          "language": "no verificado",
+          "provenance": "https://iptv-org.github.io/iptv/categories/series.m3u"
+        },
+        {
+          "name": "Pluto TV Dramas Coreanos",
+          "group": "Series",
+          "tvgId": "PlutoTVDramasCoreanos.us@LatAm",
+          "logo": "https://images.pluto.tv/channels/6185a9a88b2ce30007de5128/colorLogoPNG_1765467371603.png",
+          "url": "https://jmp2.uk/plu-6185a9a88b2ce30007de5128.m3u8",
+          "type": "stream",
+          "id": "entry-f23ee2be4c39a0c99fc87500",
+          "language": "no verificado",
+          "provenance": "https://iptv-org.github.io/iptv/categories/series.m3u"
+        },
+        {
+          "name": "Pluto TV Dramas Coreanos Teen",
+          "group": "Series",
+          "tvgId": "PlutoTVDramasCoreanosTeen.us@LatAm",
+          "logo": "https://images.pluto.tv/channels/6661d5424b10960008599fa3/colorLogoPNG_1765467438253.png",
+          "url": "https://jmp2.uk/plu-6661d5424b10960008599fa3.m3u8",
+          "type": "stream",
+          "id": "entry-ebd03fa23b2a8a1077989b80",
+          "language": "no verificado",
+          "provenance": "https://iptv-org.github.io/iptv/categories/series.m3u"
+        },
+        {
+          "name": "Pluto TV Novelas LatAm",
+          "group": "Series",
+          "tvgId": "PlutoTVNovelas.us@LatAm",
+          "logo": "https://images.pluto.tv/channels/5f512365abe1f50007d3ff56/colorLogoPNG.png",
+          "url": "https://jmp2.uk/plu-5dcde0cc2efd2700090b7ff4.m3u8",
+          "type": "stream",
+          "id": "entry-7df3ddf2973f07537710e5a4",
+          "language": "no verificado",
+          "provenance": "https://iptv-org.github.io/iptv/categories/series.m3u"
+        },
+        {
+          "name": "Pluto TV Novelas de Mexico",
+          "group": "Series",
+          "tvgId": "PlutoTVNovelasdeMexico.us@LatAm",
+          "logo": "https://images.pluto.tv/channels/6474a7958e3c0a0008b97cae/colorLogoPNG_1765475296297.png",
+          "url": "https://jmp2.uk/plu-6474a7958e3c0a0008b97cae.m3u8",
+          "type": "stream",
+          "id": "entry-25cae5b7dc41d1332ba39eb7",
+          "language": "no verificado",
+          "provenance": "https://iptv-org.github.io/iptv/categories/series.m3u"
+        },
+        {
+          "name": "Pluto TV Novelas de Otros Continentes",
+          "group": "Series",
+          "tvgId": "PlutoTVNovelasdeOtrosContinentes.us@LatAm",
+          "logo": "https://images.pluto.tv/channels/686eed4c677f2f98b4a1ccd4/colorLogoPNG_1765466599084.png",
+          "url": "https://jmp2.uk/plu-686eed4c677f2f98b4a1ccd4.m3u8",
+          "type": "stream",
+          "id": "entry-e9b86f2001947f4b61963b9d",
+          "language": "no verificado",
+          "provenance": "https://iptv-org.github.io/iptv/categories/series.m3u"
+        },
+        {
+          "name": "Pluto TV Novelas de Venezuela",
+          "group": "Series",
+          "tvgId": "PlutoTVNovelasdeVenezuela.us@LatAm",
+          "logo": "https://images.pluto.tv/channels/6474a86917f5e100089a0c1c/colorLogoPNG_1765471713312.png",
+          "url": "https://jmp2.uk/plu-6474a86917f5e100089a0c1c.m3u8",
+          "type": "stream",
+          "id": "entry-019977bdd460cc4f6abd50e8",
+          "language": "no verificado",
+          "provenance": "https://iptv-org.github.io/iptv/categories/series.m3u"
+        },
+        {
+          "name": "Pluto TV Sci-Fi (United States) LatAm",
+          "group": "Movies;Series",
+          "tvgId": "PlutoTVSciFi.us@LatAm",
+          "logo": "https://images.pluto.tv/channels/66166cb1307fa30008f275e7/colorLogoPNG.png",
+          "url": "https://jmp2.uk/plu-5f2817d3d7573a00080f9175.m3u8",
+          "type": "stream",
+          "id": "entry-7084d3cd9ba0b186c706d59e",
+          "language": "no verificado",
+          "provenance": "https://iptv-org.github.io/iptv/categories/series.m3u"
+        },
+        {
+          "name": "Pluto TV Series",
+          "group": "Series",
+          "tvgId": "PlutoTVSeries.us@LatAm",
+          "logo": "https://images.pluto.tv/channels/5dcde1317578340009b751d0/colorLogoPNG.png",
+          "url": "https://jmp2.uk/plu-5dcde1317578340009b751d0.m3u8",
+          "type": "stream",
+          "id": "entry-ec6479d5f7f8ff183bb2c66a",
+          "language": "no verificado",
+          "provenance": "https://iptv-org.github.io/iptv/categories/series.m3u"
+        },
+        {
+          "name": "Pluto TV Series de Accion",
+          "group": "Series",
+          "tvgId": "PlutoTVSeriesdeAccion.us@LatAm",
+          "logo": "https://images.pluto.tv/channels/6479ff1c17f5e10008ad2797/colorLogoPNG.png",
+          "url": "https://jmp2.uk/plu-6479ff1c17f5e10008ad2797.m3u8",
+          "type": "stream",
+          "id": "entry-db1090ca98faaf8e7b1673b5",
+          "language": "no verificado",
+          "provenance": "https://iptv-org.github.io/iptv/categories/series.m3u"
+        },
+        {
+          "name": "Pluto TV Series de Comedia",
+          "group": "Series",
+          "tvgId": "PlutoTVSeriesdeComedia.us@LatAm",
+          "logo": "https://images.pluto.tv/channels/655f626d57fe4a00085c7c3e/colorLogoPNG.png",
+          "url": "https://jmp2.uk/plu-655f626d57fe4a00085c7c3e.m3u8",
+          "type": "stream",
+          "id": "entry-17eadf560ed2c74860fc62e1",
+          "language": "no verificado",
+          "provenance": "https://iptv-org.github.io/iptv/categories/series.m3u"
+        },
+        {
+          "name": "Pluto TV Series de Crimen",
+          "group": "Series",
+          "tvgId": "PlutoTVSeriesdeCrimen.us@LatAm",
+          "logo": "https://images.pluto.tv/channels/655f62ff954b020008c91ec6/colorLogoPNG.png",
+          "url": "https://jmp2.uk/plu-655f62ff954b020008c91ec6.m3u8",
+          "type": "stream",
+          "id": "entry-9b7657e793c577e96d68ab39",
+          "language": "no verificado",
+          "provenance": "https://iptv-org.github.io/iptv/categories/series.m3u"
+        },
+        {
+          "name": "Pluto TV Series de Drama",
+          "group": "Series",
+          "tvgId": "PlutoTVSeriesdeDrama.us@LatAm",
+          "logo": "https://images.pluto.tv/channels/655f636d954b020008c93299/colorLogoPNG_1765466171343.png",
+          "url": "https://jmp2.uk/plu-655f636d954b020008c93299.m3u8",
+          "type": "stream",
+          "id": "entry-7ea964909971e0d3b707c0fa",
+          "language": "no verificado",
+          "provenance": "https://iptv-org.github.io/iptv/categories/series.m3u"
+        },
+        {
+          "name": "Pluto TV Series de Otros Continentes",
+          "group": "Series",
+          "tvgId": "PlutoTVSeriesdeOtrosContinentes.us@LatAm",
+          "logo": "https://images.pluto.tv/channels/6806d570c178637410ae4962/colorLogoPNG_1765466496602.png",
+          "url": "https://jmp2.uk/plu-6806d570c178637410ae4962.m3u8",
+          "type": "stream",
+          "id": "entry-76428951eb6448567f21a8bd",
+          "language": "no verificado",
+          "provenance": "https://iptv-org.github.io/iptv/categories/series.m3u"
+        },
+        {
+          "name": "Pluto TV Series de Sci-Fi",
+          "group": "Series",
+          "tvgId": "PlutoTVSeriesdeSciFi.us@LatAm",
+          "logo": "https://images.pluto.tv/channels/65662f8a2c46f300088a84cc/colorLogoPNG.png",
+          "url": "https://jmp2.uk/plu-65662f8a2c46f300088a84cc.m3u8",
+          "type": "stream",
+          "id": "entry-03429abf7959f655ae9d41bb",
+          "language": "no verificado",
+          "provenance": "https://iptv-org.github.io/iptv/categories/series.m3u"
+        },
+        {
+          "name": "Pluto TV Series Latinas",
+          "group": "Series",
+          "tvgId": "PlutoTVSeriesLatinas.us@LatAm",
+          "logo": "https://images.pluto.tv/channels/5dd837642c6e9300098ad484/colorLogoPNG.png",
+          "url": "https://jmp2.uk/plu-5dd837642c6e9300098ad484.m3u8",
+          "type": "stream",
+          "id": "entry-5b2daffbc8241266749ea529",
+          "language": "no verificado",
+          "provenance": "https://iptv-org.github.io/iptv/categories/series.m3u"
+        },
+        {
+          "name": "Star Trek LatAm",
+          "group": "Series",
+          "tvgId": "StarTrek.us@LatAm",
+          "logo": "https://images.pluto.tv/channels/5efbd39f8c4ce900075d7698/colorLogoPNG.png",
+          "url": "https://jmp2.uk/plu-5ec5761aabe4690007f6e047.m3u8",
+          "type": "stream",
+          "id": "entry-d16de796392e8c692722c0fd",
+          "language": "no verificado",
+          "provenance": "https://iptv-org.github.io/iptv/categories/series.m3u"
+        },
+        {
+          "name": "The New Detectives (United States) LatAm",
+          "group": "Series",
+          "tvgId": "TheNewDetectives.us@LatAm",
+          "logo": "https://images.pluto.tv/channels/62bdabbc5611f2000761ca30/colorLogoPNG.png",
+          "url": "https://jmp2.uk/plu-5ea71d48af1d0b0007d837f4.m3u8",
+          "type": "stream",
+          "id": "entry-01bc847497f8926c0378c398",
+          "language": "no verificado",
+          "provenance": "https://iptv-org.github.io/iptv/categories/series.m3u"
+        }
+      ]
+    },
+    {
+      "id": "vod-blender-movies",
+      "name": "Películas cortas · A demanda",
+      "origin": "https://github.com/gaustan/gaustan-tv-catalog",
+      "entries": [
+        {
+          "name": "Big Buck Bunny (9.9 min)",
+          "group": "Películas cortas · Blender · CC BY",
+          "tvgId": "vod.blender.bf1f3fb5-b119-4f9f-9930-8e20e892b898",
+          "logo": "https://video.blender.org/lazy-static/thumbnails/bf1f3fb5-b119-4f9f-9930-8e20e892b898.jpg",
+          "url": "https://video.blender.org/object-storage/web_videos/bf1f3fb5-b119-4f9f-9930-8e20e892b898-720.mp4",
+          "type": "stream",
+          "id": "entry-890ce323246147cb9019b5f5",
+          "language": "no verificado",
+          "provenance": "https://github.com/gaustan/gaustan-tv-catalog"
+        },
+        {
+          "name": "Elephants Dream (10.9 min)",
+          "group": "Películas cortas · Blender · CC BY",
+          "tvgId": "vod.blender.cccc3e60-0291-4ecc-aa56-39b2e2c7d0d5",
+          "logo": "https://video.blender.org/lazy-static/thumbnails/cccc3e60-0291-4ecc-aa56-39b2e2c7d0d5.jpg",
+          "url": "https://video.blender.org/object-storage/web_videos/cccc3e60-0291-4ecc-aa56-39b2e2c7d0d5-720.mp4",
+          "type": "stream",
+          "id": "entry-23f813326e9f996140acdf5b",
+          "language": "no verificado",
+          "provenance": "https://github.com/gaustan/gaustan-tv-catalog"
+        },
+        {
+          "name": "Sintel (14.8 min)",
+          "group": "Películas cortas · Blender · CC BY",
+          "tvgId": "vod.blender.0eb052d0-fd51-43e6-aa33-ecdbf77a5d40",
+          "logo": "https://video.blender.org/lazy-static/thumbnails/0eb052d0-fd51-43e6-aa33-ecdbf77a5d40.jpg",
+          "url": "https://video.blender.org/object-storage/web_videos/0eb052d0-fd51-43e6-aa33-ecdbf77a5d40-720.mp4",
+          "type": "stream",
+          "id": "entry-a71bd926be5e6b0257608b7c",
+          "language": "no verificado",
+          "provenance": "https://github.com/gaustan/gaustan-tv-catalog"
+        },
+        {
+          "name": "Tears of Steel (12.2 min)",
+          "group": "Películas cortas · Blender · CC BY",
+          "tvgId": "vod.blender.8533ea43-4271-4a57-9694-e9d0b35e1aa1",
+          "logo": "https://video.blender.org/lazy-static/thumbnails/8533ea43-4271-4a57-9694-e9d0b35e1aa1.jpg",
+          "url": "https://video.blender.org/object-storage/web_videos/8533ea43-4271-4a57-9694-e9d0b35e1aa1-720.mp4",
+          "type": "stream",
+          "id": "entry-7cb90b48b5e37cdd880b57dd",
+          "language": "no verificado",
+          "provenance": "https://github.com/gaustan/gaustan-tv-catalog"
+        },
+        {
+          "name": "Spring (7.7 min)",
+          "group": "Películas cortas · Blender · CC BY",
+          "tvgId": "vod.blender.3d95fb3d-c866-42c8-9db1-fe82f48ccb95",
+          "logo": "https://video.blender.org/lazy-static/thumbnails/3d95fb3d-c866-42c8-9db1-fe82f48ccb95.jpg",
+          "url": "https://video.blender.org/object-storage/web_videos/3d95fb3d-c866-42c8-9db1-fe82f48ccb95-720.mp4",
+          "type": "stream",
+          "id": "entry-eb1d732f6da92470ca54b86c",
+          "language": "no verificado",
+          "provenance": "https://github.com/gaustan/gaustan-tv-catalog"
+        },
+        {
+          "name": "Coffee Run (3.1 min)",
+          "group": "Películas cortas · Blender · CC BY",
+          "tvgId": "vod.blender.ff8fe61b-026f-4f07-b66b-2a790d6f6ab1",
+          "logo": "https://video.blender.org/lazy-static/thumbnails/ff8fe61b-026f-4f07-b66b-2a790d6f6ab1.jpg",
+          "url": "https://video.blender.org/object-storage/web_videos/ff8fe61b-026f-4f07-b66b-2a790d6f6ab1-720.mp4",
+          "type": "stream",
+          "id": "entry-16d9831bbb306816b574e290",
+          "language": "no verificado",
+          "provenance": "https://github.com/gaustan/gaustan-tv-catalog"
+        }
+      ]
+    },
+    {
+      "id": "vod-blender-series",
+      "name": "Caminandes · Episodios a demanda",
+      "origin": "https://github.com/gaustan/gaustan-tv-catalog",
+      "entries": [
+        {
+          "name": "Caminandes · Episodio 2 · Gran Dillama (2.4 min)",
+          "group": "Caminandes · Serie de cortos · Blender · CC BY",
+          "tvgId": "vod.blender.fb70d459-48d2-4db5-adba-813c84f9200a",
+          "logo": "https://video.blender.org/lazy-static/thumbnails/fb70d459-48d2-4db5-adba-813c84f9200a.jpg",
+          "url": "https://video.blender.org/object-storage/web_videos/fb70d459-48d2-4db5-adba-813c84f9200a-720.mp4",
+          "type": "stream",
+          "id": "entry-afcaa177a02e81f9c2b055bb",
+          "language": "no verificado",
+          "provenance": "https://github.com/gaustan/gaustan-tv-catalog"
+        },
+        {
+          "name": "Caminandes · Episodio 3 · Llamigos (2.5 min)",
+          "group": "Caminandes · Serie de cortos · Blender · CC BY",
+          "tvgId": "vod.blender.23f3ef79-15dc-44c5-aa45-cf92e78a4509",
+          "logo": "https://video.blender.org/lazy-static/thumbnails/23f3ef79-15dc-44c5-aa45-cf92e78a4509.jpg",
+          "url": "https://video.blender.org/object-storage/web_videos/23f3ef79-15dc-44c5-aa45-cf92e78a4509-720.mp4",
+          "type": "stream",
+          "id": "entry-87b3593a33c75256b4b16509",
+          "language": "no verificado",
+          "provenance": "https://github.com/gaustan/gaustan-tv-catalog"
+        }
+      ]
+    },
+    {
+      "id": "vod-es-feature-films",
+      "name": "Largometrajes · Español",
+      "origin": "https://github.com/gaustan/gaustan-tv-catalog",
+      "entries": [
+        {
+          "name": "La educación prohibida (145 min · Español)",
+          "group": "Largometrajes documentales · Español",
+          "tvgId": "vod.es.LaEducacionProhibida",
+          "logo": "https://archive.org/services/img/LaEducacionProhibida",
+          "url": "https://archive.org/download/LaEducacionProhibida/la_educacion_prohibida.mp4",
+          "type": "stream",
+          "id": "entry-2278934d615d4bad545fc37d",
+          "language": "no verificado",
+          "provenance": "https://github.com/gaustan/gaustan-tv-catalog"
+        },
+        {
+          "name": "Hard as Indie (93 min · Español)",
+          "group": "Largometrajes documentales · Español",
+          "tvgId": "vod.es.hard-as-indie-2018.es",
+          "logo": "https://archive.org/services/img/hard-as-indie-2018.es",
+          "url": "https://archive.org/download/hard-as-indie-2018.es/Hard%20as%20Indie%20%282018%29.mp4",
+          "type": "stream",
+          "id": "entry-b662c147f14af823f0c38c80",
+          "language": "no verificado",
+          "provenance": "https://github.com/gaustan/gaustan-tv-catalog"
+        }
+      ]
+    },
+    {
+      "id": "vod-es-official-series",
+      "name": "Series en español · Referencias web",
+      "origin": "https://github.com/gaustan/gaustan-tv-catalog",
+      "entries": [
+        {
+          "name": "LIBRES 1x01 - La partida · ↗ YouTube",
+          "group": "Libres · Español · YouTube oficial",
+          "tvgId": "vod.youtube.RLoWUI3lA1M",
+          "logo": "https://i.ytimg.com/vi/RLoWUI3lA1M/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=RLoWUI3lA1M",
+          "type": "web",
+          "id": "entry-c99032131c1b3f1b4af76a35",
+          "language": "no verificado",
+          "provenance": "https://github.com/gaustan/gaustan-tv-catalog"
+        },
+        {
+          "name": "LIBRES 1x02 - Primer contacto · ↗ YouTube",
+          "group": "Libres · Español · YouTube oficial",
+          "tvgId": "vod.youtube.atfL9C7S8zs",
+          "logo": "https://i.ytimg.com/vi/atfL9C7S8zs/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=atfL9C7S8zs",
+          "type": "web",
+          "id": "entry-0bf9f5edc13f5a1807998055",
+          "language": "no verificado",
+          "provenance": "https://github.com/gaustan/gaustan-tv-catalog"
+        },
+        {
+          "name": "LIBRES 1x03 - Los jefecillos · ↗ YouTube",
+          "group": "Libres · Español · YouTube oficial",
+          "tvgId": "vod.youtube.VnZgvwEV8zI",
+          "logo": "https://i.ytimg.com/vi/VnZgvwEV8zI/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=VnZgvwEV8zI",
+          "type": "web",
+          "id": "entry-bbb7e05bfe916cbede724144",
+          "language": "no verificado",
+          "provenance": "https://github.com/gaustan/gaustan-tv-catalog"
+        },
+        {
+          "name": "LIBRES 1x04 - Pirineos TV · ↗ YouTube",
+          "group": "Libres · Español · YouTube oficial",
+          "tvgId": "vod.youtube.U4ifuaKB-T4",
+          "logo": "https://i.ytimg.com/vi/U4ifuaKB-T4/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=U4ifuaKB-T4",
+          "type": "web",
+          "id": "entry-4432fd5d5feff1596d4fdad4",
+          "language": "no verificado",
+          "provenance": "https://github.com/gaustan/gaustan-tv-catalog"
+        },
+        {
+          "name": "LIBRES 1x05 - El Zagal · ↗ YouTube",
+          "group": "Libres · Español · YouTube oficial",
+          "tvgId": "vod.youtube.QC83JxeaiRQ",
+          "logo": "https://i.ytimg.com/vi/QC83JxeaiRQ/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=QC83JxeaiRQ",
+          "type": "web",
+          "id": "entry-e644c9a935473e3a04a7b1da",
+          "language": "no verificado",
+          "provenance": "https://github.com/gaustan/gaustan-tv-catalog"
+        },
+        {
+          "name": "LIBRES 1x06 - El Concierto · ↗ YouTube",
+          "group": "Libres · Español · YouTube oficial",
+          "tvgId": "vod.youtube.KHHdhJFm_Hc",
+          "logo": "https://i.ytimg.com/vi/KHHdhJFm_Hc/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=KHHdhJFm_Hc",
+          "type": "web",
+          "id": "entry-3bedfff3fca12c993d1225dd",
+          "language": "no verificado",
+          "provenance": "https://github.com/gaustan/gaustan-tv-catalog"
+        },
+        {
+          "name": "LIBRES 1x07 - Los Pasaportes · ↗ YouTube",
+          "group": "Libres · Español · YouTube oficial",
+          "tvgId": "vod.youtube.TCsXr_1fsu8",
+          "logo": "https://i.ytimg.com/vi/TCsXr_1fsu8/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=TCsXr_1fsu8",
+          "type": "web",
+          "id": "entry-b204028e303e04bd33dc756f",
+          "language": "no verificado",
+          "provenance": "https://github.com/gaustan/gaustan-tv-catalog"
+        },
+        {
+          "name": "LIBRES 1x08 - Cicatrices · ↗ YouTube",
+          "group": "Libres · Español · YouTube oficial",
+          "tvgId": "vod.youtube.oHTYn2wHx-4",
+          "logo": "https://i.ytimg.com/vi/oHTYn2wHx-4/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=oHTYn2wHx-4",
+          "type": "web",
+          "id": "entry-81a942c9cda83a0a01a0497d",
+          "language": "no verificado",
+          "provenance": "https://github.com/gaustan/gaustan-tv-catalog"
+        },
+        {
+          "name": "LIBRES 1x09 - El Encuentro · ↗ YouTube",
+          "group": "Libres · Español · YouTube oficial",
+          "tvgId": "vod.youtube.Ybw6xxzlnDk",
+          "logo": "https://i.ytimg.com/vi/Ybw6xxzlnDk/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Ybw6xxzlnDk",
+          "type": "web",
+          "id": "entry-aa7d5a3b8af3b4a566f69e66",
+          "language": "no verificado",
+          "provenance": "https://github.com/gaustan/gaustan-tv-catalog"
+        },
+        {
+          "name": "LIBRES 1x10 - El Juicio · ↗ YouTube",
+          "group": "Libres · Español · YouTube oficial",
+          "tvgId": "vod.youtube.aOi1us2TTbc",
+          "logo": "https://i.ytimg.com/vi/aOi1us2TTbc/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=aOi1us2TTbc",
+          "type": "web",
+          "id": "entry-28d4aaa4ad67b8f8c964ab76",
+          "language": "no verificado",
+          "provenance": "https://github.com/gaustan/gaustan-tv-catalog"
+        },
+        {
+          "name": "Malviviendo 1x01 - Me dicen Negro · ↗ YouTube",
+          "group": "Malviviendo · Español · YouTube oficial",
+          "tvgId": "vod.youtube.ztL8KMLJ9Is",
+          "logo": "https://i.ytimg.com/vi/ztL8KMLJ9Is/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=ztL8KMLJ9Is",
+          "type": "web",
+          "id": "entry-dbc348e5f0dc4e438f3be991",
+          "language": "no verificado",
+          "provenance": "https://github.com/gaustan/gaustan-tv-catalog"
+        },
+        {
+          "name": "Malviviendo 1x02 - La Cosecha · ↗ YouTube",
+          "group": "Malviviendo · Español · YouTube oficial",
+          "tvgId": "vod.youtube.FxO1poo8f2I",
+          "logo": "https://i.ytimg.com/vi/FxO1poo8f2I/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=FxO1poo8f2I",
+          "type": "web",
+          "id": "entry-4096e19064959cadcbb21dfa",
+          "language": "no verificado",
+          "provenance": "https://github.com/gaustan/gaustan-tv-catalog"
+        },
+        {
+          "name": "Malviviendo 1x03 - El próximo antes de ayer · ↗ YouTube",
+          "group": "Malviviendo · Español · YouTube oficial",
+          "tvgId": "vod.youtube.fD6rngYE12M",
+          "logo": "https://i.ytimg.com/vi/fD6rngYE12M/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=fD6rngYE12M",
+          "type": "web",
+          "id": "entry-9c2800ca91b3f73fc016fc2c",
+          "language": "no verificado",
+          "provenance": "https://github.com/gaustan/gaustan-tv-catalog"
+        },
+        {
+          "name": "Malviviendo 1x04 - Chair Driver · ↗ YouTube",
+          "group": "Malviviendo · Español · YouTube oficial",
+          "tvgId": "vod.youtube.RbJFJEfviY8",
+          "logo": "https://i.ytimg.com/vi/RbJFJEfviY8/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=RbJFJEfviY8",
+          "type": "web",
+          "id": "entry-fca2f348d9c3eda50a387865",
+          "language": "no verificado",
+          "provenance": "https://github.com/gaustan/gaustan-tv-catalog"
+        },
+        {
+          "name": "Malviviendo 1x05 - Callejosos · ↗ YouTube",
+          "group": "Malviviendo · Español · YouTube oficial",
+          "tvgId": "vod.youtube.kWzgRHC5apY",
+          "logo": "https://i.ytimg.com/vi/kWzgRHC5apY/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=kWzgRHC5apY",
+          "type": "web",
+          "id": "entry-d3da3ce18f6d958e485d3e20",
+          "language": "no verificado",
+          "provenance": "https://github.com/gaustan/gaustan-tv-catalog"
+        }
+      ]
+    },
+    {
+      "id": "vod-internal-fiction",
+      "name": "Ficción · Largometrajes VOSE",
+      "origin": "https://github.com/gaustan/gaustan-tv-catalog",
+      "entries": [
+        {
+          "name": "Sita Sings the Blues (82 min · VOSE)",
+          "group": "Ficción animada · VOSE",
+          "tvgId": "vod.internal.sita",
+          "logo": "https://archive.org/services/img/Sita_Sings_the_Blues",
+          "url": "https://archive.org/download/Sita_Sings_the_Blues/Sita_Sings_the_Blues_480p_2150kbps.mp4",
+          "type": "stream",
+          "id": "entry-7efae5cc31b5870a4d513758",
+          "language": "original + subtítulos es",
+          "provenance": "https://github.com/gaustan/gaustan-tv-catalog"
+        },
+        {
+          "name": "Seder-Masochism (78 min · VOSE)",
+          "group": "Ficción animada · VOSE",
+          "tvgId": "vod.internal.seder",
+          "logo": "https://archive.org/services/img/sedermasochism",
+          "url": "https://archive.org/download/sedermasochism/Seder-Masochism%20final%2005-18-18_720p.mp4",
+          "type": "stream",
+          "id": "entry-4b6a343f8a5bc18f40771bed",
+          "language": "original + subtítulos es",
+          "provenance": "https://github.com/gaustan/gaustan-tv-catalog"
+        }
+      ]
+    },
+    {
+      "id": "vod-internal-pioneer",
+      "name": "Pioneer One · VOSE · Episodios 1–2",
+      "origin": "https://github.com/gaustan/gaustan-tv-catalog",
+      "entries": [
+        {
+          "name": "Pioneer One · 1x01 Earthfall (34 min · VOSE)",
+          "group": "Pioneer One · Ciencia ficción · VOSE",
+          "tvgId": "vod.internal.pioneer1",
+          "logo": "https://archive.org/services/img/PioneerOneS01E01",
+          "url": "https://archive.org/download/PioneerOneS01E01/Content/Pioneer.One.S01E01.REFIX.Xvid-VODO.mp4",
+          "type": "stream",
+          "id": "entry-53819bf5a55b0547f7a6d7f1",
+          "language": "original + subtítulos es",
+          "provenance": "https://github.com/gaustan/gaustan-tv-catalog"
+        },
+        {
+          "name": "Pioneer One · 1x02 The Man From Mars (39 min · VOSE)",
+          "group": "Pioneer One · Ciencia ficción · VOSE",
+          "tvgId": "vod.internal.pioneer2",
+          "logo": "https://archive.org/services/img/pioneer-one",
+          "url": "https://archive.org/download/pioneer-one/data/season%201/02.mp4",
+          "type": "stream",
+          "id": "entry-25cb90eaa350dd078a6be9c2",
+          "language": "original + subtítulos es",
+          "provenance": "https://github.com/gaustan/gaustan-tv-catalog"
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "years-and-years-s01e01-web",
+      "type": "web",
+      "name": "Years and Years · T1 E1",
+      "url": "https://stream4fun.net/watch/87104?s=1&e=1",
+      "note": "Referencia HTML. No es una URL de vídeo verificada; no se importa como stream."
+    }
+  ]
+}
